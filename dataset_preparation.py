@@ -1,6 +1,5 @@
 import json
 
-
 with open("dataset_1.jsonl", encoding="utf-8") as f:
     dataset = [json.loads(line) for line in f]
     
