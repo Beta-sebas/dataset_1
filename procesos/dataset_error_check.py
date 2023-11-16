@@ -5,7 +5,7 @@ from collections import defaultdict
 import numpy as np
 import tiktoken
 
-with open("dataset_1.jsonl") as f:
+with open("dataset_2_corregido.jsonl") as f:
     dataset = [json.loads(line) for line in f]
     
 #---------------------------------- CHECKEO DE ERRORES EN EL FORMATO DEL DATASET--------------------------------------------
