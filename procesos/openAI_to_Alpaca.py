@@ -1,6 +1,6 @@
 import json
 
-with open("dataset_2_corregido.jsonl", encoding="utf-8") as f:
+with open("dataset_teoria.jsonl", encoding="utf-8") as f:
     dataset = [json.loads(line) for line in f]
     
 def convert_format(dataset):
