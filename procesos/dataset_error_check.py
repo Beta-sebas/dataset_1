@@ -5,7 +5,7 @@ from collections import defaultdict
 import numpy as np
 import tiktoken
 
-with open("dataset_teoria.jsonl") as f:
+with open("flujos_openAI_format.jsonl") as f:
     dataset = [json.loads(line) for line in f]
     
 #---------------------------------- CHECKEO DE ERRORES EN EL FORMATO DEL DATASET--------------------------------------------
