@@ -1,6 +1,6 @@
 import json
 
-with open("dataset_alpaca_format.jsonl", encoding="utf-8") as f:
+with open("amadeus_TRL_CONCEPTUAL_DATASET.jsonl", encoding="utf-8") as f:
     dataset = [json.loads(line) for line in f]
     
     
@@ -24,5 +24,5 @@ def modify_system_job():
 
 
        
-#modify_system_job()
+modify_system_job()
 show_dataset()
