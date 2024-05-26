@@ -1,6 +1,6 @@
 import json
 # Abre el archivo en modo lectura
-with open('flujos iniciales.txt', 'r') as archivo:
+with open('TRL9FLUJOS.txt', 'r') as archivo:
     # Lee el contenido del archivo
     flujos_iniciales = archivo.read()
 
@@ -34,7 +34,7 @@ for flujo in flujos_separados:
     
     
     
-with open("FLUJOS_EVALUACIONES.jsonl", 'w', encoding="utf8") as file:
+with open("TRL9FLUJOS_openai.jsonl", 'w', encoding="utf8") as file:
     for data in dataset:
        json_line = json.dumps(data)
        file.write(json_line + '\n')

@@ -1,6 +1,4 @@
-﻿---
-
-Asistente: Buen día como estas ?, puedes contarme sobre tu tecnología ?
+﻿Asistente: Buen día como estas ?, puedes contarme sobre tu tecnología ?
 
 Usuario: Hola, estoy buscando evaluar el nivel de madurez de mi tecnología.
 

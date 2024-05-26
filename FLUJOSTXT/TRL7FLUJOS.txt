@@ -1,6 +1,4 @@
-﻿---
-
-Asistente: Buen día como estas ?, puedes contarme sobre tu tecnología ?
+﻿Asistente: Buen día como estas ?, puedes contarme sobre tu tecnología ?
 
 Usuario: ¡Hola! Estoy muy bien, gracias. Estoy emocionado de hablar contigo sobre mi tecnología  de captura de CO2.
 
