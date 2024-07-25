@@ -1,0 +1,1472 @@
+[
+    {
+        "instruction": "Que significa TRL?",
+        "input": "",
+        "output": "los niveles de madurez de la tecnología, más conocidos por sus siglas inglesas TRLs: Technology Readiness Levels. Este concepto surge en la NASA pero posteriormente se generaliza para aplicarse a cualquier proyecto y no necesariamente a los proyectos aeronáuticos o espaciales, desde su idea original hasta su despliegue."
+    },
+    {
+        "instruction": "para que se utiliza el TRL?",
+        "input": "",
+        "output": "El TRL es una forma aceptada de medir el grado de madurez de una tecnología Por lo tanto, si consideramos una tecnología concreta y tenemos información del TRL o nivel en el que se encuentra podremos hacernos una idea de su nivel de madurez."
+    },
+    {
+        "instruction": "Que son los niveles de madurez de la tecnología?",
+        "input": "",
+        "output": "Es la forma como en el TRL se clasifica la madurez de una tecnología. Se consideran 9 niveles que se extienden desde los principios básicos de la nueva tecnología hasta llegar a sus pruebas con éxito en un entorno real."
+    },
+    {
+        "instruction": "Cuales son los niveles de maduracion del TRL?",
+        "input": "",
+        "output": "Se consideran 9 niveles desde la investigación básica hasta la comercialización de la tecnología: :\n\n-TRL 1: Principios básicos observados y reportados. \n\n-TRL 2: Concepto y/o aplicación tecnológica formulada. \n\n-TRL 3: Función crítica analítica y experimental y/o prueba de concepto característica. \n\n-TRL 4: Validación de componente y/o disposición de los mismos en entorno de laboratorio. \n\n-TRL 5: Validación de componente y/o disposición de los mismos en un entorno relevante. \n\n-TRL 6: Modelo de sistema o subsistema o demostración de prototipo en un entorno relevante. \n\n-TRL 7: Demostración de sistema o prototipo en un entorno real. \n\n-TRL 8: Sistema completo y certificado a través de pruebas y demostraciones. \n\n-TRL 9: Sistema probado con éxito en entorno real."
+    },
+    {
+        "instruction": "Me puedes resumir los niveles del TRL",
+        "input": "",
+        "output": "Por supuesto, aqui tienes una version más resumida: \n\n TRL 1: Idea básica. \n\n TRL 2: Concepto o tecnología formulados. \n\n TRL 3: Prueba de concepto. \n\n TRL 4: Validación a nivel de componentes en laboratorio. \n\n TRL 5: Validación a nivel de componentes en un \n\n TRL 6: Validación de sistema o subsistema en un entorno relevante. \n\n TRL 7: Validación de sistema en un entorno real. \n\n TRL 8: Validación y certificación completa en un entorno real. \n\n TRL 9: Pruebas con éxito en entorno real."
+    },
+    {
+        "instruction": "Que es un entorno relevante?",
+        "input": "",
+        "output": "Cuando se habla de entorno relevante se pretende indicar un entorno con unas condiciones que se aproximan o simulan suficientemente a las condiciones existentes en un entorno real o de misión."
+    },
+    {
+        "instruction": "¿Qué significa TRL y cuál es su importancia en el desarrollo tecnológico?",
+        "input": "",
+        "output": "El acrónimo TRL significa 'Technology Readiness Levels' (Niveles de Madurez de la Tecnología). Estos niveles son una herramienta utilizada para evaluar el grado de madurez y viabilidad de una determinada tecnología. La importancia de los TRL radica en su capacidad para proporcionar una guía clara sobre el estado de desarrollo de una tecnología, lo que a su vez ayuda a los investigadores, desarrolladores y financiadores a comprender en qué etapa se encuentra una tecnología y cuáles son los pasos necesarios para avanzar en su desarrollo. Los TRL son especialmente relevantes en el ámbito de la investigación y desarrollo tecnológico, ya que permiten una evaluación objetiva del progreso de una tecnología desde sus etapas iniciales hasta su implementación práctica."
+    },
+    {
+        "instruction": "¿Cuál es el propósito de los TRLs en el contexto de la investigación y desarrollo?",
+        "input": "",
+        "output": "El propósito de los TRLs en el contexto de la investigación y desarrollo es proporcionar una guía clara y estandarizada para evaluar el grado de madurez y viabilidad de una determinada tecnología. Esto permite a los investigadores, desarrolladores y financiadores comprender en qué etapa se encuentra una tecnología y cuáles son los pasos necesarios para avanzar en su desarrollo. Los TRLs ayudan a establecer un marco común para la evaluación del progreso tecnológico, lo que a su vez facilita la toma de decisiones informadas sobre la financiación, el desarrollo y la implementación de tecnologías emergentes."
+    },
+    {
+        "instruction": "¿Cuáles son los niveles de madurez de la tecnología según los TRLs?",
+        "input": "",
+        "output": "Los niveles de madurez de la tecnología según los TRLs son los siguientes:\n\n- TRL 1: Investigación básica.\n- TRL 2: Concepto formulado.\n- TRL 3: Validación en entorno de laboratorio.\n- TRL 4: Validación en entorno de laboratorio y en entorno relevante.\n- TRL 5: Componentes validados en entorno relevante.\n- TRL 6: Resultados de las pruebas realizadas a nivel de prototipo en entorno relevante.\n- TRL 7: Resultado de las pruebas a nivel de prototipo realizadas en entorno operativo.\n- TRL 8: Resultados de las pruebas del sistema en su configuración final.\n- TRL 9: Informes finales en condiciones de funcionamiento o misión real."
+    },
+    {
+        "instruction": "¿Qué métrica proporciona el conocimiento del grado de madurez de la tecnología?",
+        "input": "",
+        "output": "El conocimiento del grado de madurez de la tecnología proporciona una métrica del riesgo que se afronta en el desarrollo del proyecto y de la envergadura del desarrollo tecnológico que se acomete. Esto significa que comprender el nivel de madurez de la tecnología utilizada en el desarrollo es una métrica clave para evaluar el riesgo y la magnitud del desarrollo tecnológico involucrado en un proyecto específico."
+    },
+    {
+        "instruction": "¿Cuál es el enfoque principal de la mayoría de proyectos en relación con el desarrollo tecnológico?",
+        "input": "",
+        "output": "La mayoría de proyectos se centran en el desarrollo de un nuevo producto, proceso o servicio más que en el desarrollo de una tecnología específica. Sin embargo, conocer el grado de madurez de la tecnología que se utiliza en el desarrollo es una métrica del riesgo que se afronta en el desarrollo del proyecto y de la envergadura del desarrollo tecnológico que se acomete."
+    },
+    {
+        "instruction": "¿Por qué es importante conocer el grado de madurez de la tecnología utilizada en el desarrollo de un proyecto?",
+        "input": "",
+        "output": "El conocimiento del grado de madurez de la tecnología proporciona una métrica del riesgo que se afronta en el desarrollo del proyecto y de la envergadura del desarrollo tecnológico que se acomete. Esto significa que comprender el nivel de madurez de la tecnología utilizada en el desarrollo es una métrica clave para evaluar el riesgo y la magnitud del desarrollo tecnológico involucrado en un proyecto específico."
+    },
+    {
+        "instruction": "¿Cuál es la escala de ingeniería y cómo se relaciona con los TRLs?",
+        "input": "",
+        "output": "La escala de ingeniería se relaciona con los TRLs de la siguiente manera: TRL 6, TRL 7 y TRL 8 se encuentran en la escala de ingeniería, lo que significa que representan niveles intermedios de madurez tecnológica, donde la tecnología se encuentra en un estado avanzado de desarrollo y está lista para pruebas en entornos operativos relevantes."
+    },
+    {
+        "instruction": "¿Cuál es la diferencia entre la escala de laboratorio y la escala de ingeniería?",
+        "input": "",
+        "output": "La diferencia entre la escala de laboratorio y la escala de ingeniería radica en el tamaño y alcance de las pruebas y experimentos realizados. La escala de laboratorio implica pruebas a pequeña escala en un entorno controlado, mientras que la escala de ingeniería implica pruebas a mayor escala que representan condiciones más cercanas a un entorno real."
+    },
+    {
+        "instruction": "¿Cómo se relaciona el TRL con el riesgo asociado al desarrollo de un proyecto?",
+        "input": "",
+        "output": "El TRL (Technology Readiness Level) proporciona una comprensión común del estado de madurez de una tecnología, lo que a su vez permite evaluar y gestionar el riesgo asociado al desarrollo de un proyecto. Cuanto más inmaduras sean las tecnologías utilizadas, mayor será el riesgo del proyecto, ya que se requerirá más desarrollo tecnológico propio para alcanzar los objetivos planteados. Por lo tanto, el TRL puede ser utilizado para evaluar y gestionar el riesgo del proyecto en función del grado de madurez de tecnología."
+    },
+    {
+        "instruction": "¿Qué tipo de proyectos se centran principalmente en el desarrollo de un nuevo producto, proceso o servicio?",
+        "input": "",
+        "output": "La mayoría de proyectos se centran en el desarrollo de un nuevo producto, proceso o servicio más que en el desarrollo de una tecnología específica."
+    },
+    {
+        "instruction": "¿Qué métrica proporciona el conocimiento del grado de madurez de la tecnología utilizada en el desarrollo de un proyecto?",
+        "input": "",
+        "output": "El conocimiento del grado de madurez de la tecnología utilizada en el desarrollo de un proyecto proporciona una métrica del riesgo que se afronta en el desarrollo del proyecto y de la envergadura del desarrollo tecnológico que se acomete."
+    },
+    {
+        "instruction": "¿Cuál es la importancia de conocer el grado de madurez de la tecnología en el desarrollo de un proyecto?",
+        "input": "",
+        "output": "La importancia de conocer el grado de madurez de la tecnología utilizada en el desarrollo de un proyecto radica en que proporciona una métrica del riesgo que se afronta en el desarrollo del proyecto y de la envergadura del desarrollo tecnológico que se acomete. Esto permite evaluar y gestionar el riesgo asociado al desarrollo del proyecto en función del grado de madurez de la tecnología."
+    },
+    {
+        "instruction": "¿Cuál es la importancia de conocer el estado actual del arte en un campo específico de la tecnología?",
+        "input": "",
+        "output": "Conocer el estado actual del arte en un campo específico de la tecnología es crucial, ya que proporciona información valiosa sobre el nivel de desarrollo, avances y tendencias en ese campo. Esta comprensión permite a los investigadores, desarrolladores y tomadores de decisiones evaluar el impacto de su trabajo, identificar oportunidades de mejora y asegurarse de que están alineados con los avances más recientes. Además, el conocimiento del estado actual del arte puede servir como base para la identificación de nuevas áreas de investigación y desarrollo, así como para la toma de decisiones estratégicas en el ámbito tecnológico."
+    },
+    {
+        "instruction": "¿Qué es el TRL?",
+        "input": "",
+        "output": "El TRL (Technology Readiness Level) es una metodología desarrollada por la NASA para identificar el nivel de madurez tecnológica de una tecnología, producto, proceso o servicio. Sirve para caracterizar el progreso de una tecnología a través de las etapas de desarrollo, desde la investigación básica hasta la adopción comercial."
+    },
+    {
+        "instruction": "¿Para qué sirve el TRL?",
+        "input": "",
+        "output": "El TRL sirve para: \n\n= Establecer la correspondencia entre las actividades de I+D+i y los diferentes niveles de madurez tecnológica. \n\n- Identificar el grado de madurez tecnológica de los resultados esperados de un proyecto. \n\n-Definir el alcance y orientar los resultados de las propuestas de proyectos de I+D+i. \n\n- Evaluar el nivel de adopción y transferencia potencial de una tecnología."
+    },
+    {
+        "instruction": "¿Cómo está definido el TRL?",
+        "input": "",
+        "output": "El TRL está definido en una escala de 1 a 9, donde cada nivel representa un grado mayor de madurez de la tecnología. Los niveles van desde la investigación básica (TRL 1-2), pasando por el desarrollo tecnológico (TRL 3-7), hasta la innovación y adopción masiva (TRL 8-9)."
+    },
+    {
+        "instruction": "¿Cómo se relaciona el TRL con las etapas de I+D+i?",
+        "input": "",
+        "output": "Las etapas de Investigación Básica, Investigación Aplicada y Desarrollo Tecnológico se correlacionan con los niveles TRL de 1 a 7. La etapa de Innovación se correlaciona con los niveles TRL 8 y 9."
+    },
+    {
+        "instruction": "¿Qué tipos de productos o resultados se esperan en cada nivel TRL?",
+        "input": "",
+        "output": " En los primeros niveles (1-3) se esperan principalmente artículos científicos, informes de investigación, patentes. En los niveles intermedios (4-6) prototipos de laboratorio, demos tecnológicos. En los niveles altos (7-9) prototipos industriales, tecnologías certificadas y productos comerciales."
+    },
+    {
+        "instruction": "¿Cómo se definen las etapas de I+D+i?",
+        "input": "",
+        "output": "Las etapas de I+D+i se definen como Investigación Básica, Investigación Aplicada, Desarrollo Tecnológico e Innovación. Cada una representa un grado creciente en el desarrollo y aplicación del conocimiento."
+    },
+    {
+        "instruction": "¿Cuál es el alcance de la Investigación Básica?",
+        "input": "",
+        "output": "La Investigación Básica busca generar nuevo conocimiento sin una aplicación específica. Se enfoca en principios y observaciones."
+    },
+    {
+        "instruction": "¿Cuál es el alcance de la Investigación Aplicada?",
+        "input": "",
+        "output": "La Investigación Aplicada busca resolver problemas específicos mediante el conocimiento existente o nuevo. Se enfoca en aplicaciones prácticas."
+    },
+    {
+        "instruction": "¿Cuál es el alcance del Desarrollo Tecnológico?",
+        "input": "",
+        "output": "El Desarrollo Tecnológico busca crear nuevos productos, procesos o servicios mediante la aplicación de conocimientos. Se enfoca en el funcionamiento y viabilidad."
+    },
+    {
+        "instruction": "¿Cuál es el alcance de la Innovación?",
+        "input": "",
+        "output": "La Innovación busca la introducción al mercado de productos, procesos o servicios nuevos o mejorados. Se enfoca en la comercialización y adopción."
+    },
+    {
+        "instruction": "¿Qué es el TRL?",
+        "input": "",
+        "output": "El TRL (Technology Readiness Level) es una medida desarrollada por la NASA para identificar el nivel de madurez tecnológica de una tecnología determinada. Sirve para establecer el grado de preparación de una tecnología antes de integrarla en un sistema o producto."
+    },
+    {
+        "instruction": "¿Para qué se utiliza el TRL?",
+        "input": "",
+        "output": "El TRL se utiliza para evaluar el nivel de desarrollo de una tecnología y ayudar a gestionar el riesgo tecnológico de un proyecto. Permite comparar el estado de madurez de diferentes tecnologías y enfocar los recursos en aquellas que requieren mayor desarrollo."
+    },
+    {
+        "instruction": "¿Cuántos niveles tiene el TRL?",
+        "input": "",
+        "output": "El TRL consta de 9 niveles, desde el nivel 1 que corresponde a los principios básicos observados, hasta el nivel 9 que implica que la tecnología está totalmente probada y lista para ser integrada en un sistema real."
+    },
+    {
+        "instruction": "¿Cómo se determina el TRL de una tecnología?",
+        "input": "",
+        "output": "Se determina evaluando en qué nivel de madurez se encuentra la tecnología según las pruebas, validaciones y demostraciones realizadas. Se asigna el TRL que coincida con las actividades y resultados ya alcanzados."
+    },
+    {
+        "instruction": "¿Por qué es importante usar el TRL?",
+        "input": "",
+        "output": "Permite tener una medida objetiva para comparar tecnologías y evaluar la preparación para integrarlas en productos/sistemas reales. Reduce riesgos tecnológicos al enfocar esfuerzos en madurar tecnologías con TRL bajo antes de aplicarlas."
+    },
+    {
+        "instruction": "¿Quién utiliza el TRL?",
+        "input": "",
+        "output": "El TRL es utilizado por diversas organizaciones como agencias espaciales, militares, empresas de tecnología, para gestionar el riesgo y madurez de las tecnologías en sus proyectos de I+D."
+    },
+    {
+        "instruction": "¿Qué es el TRL 1?",
+        "input": "",
+        "output": "El TRL 1 corresponde al nivel más bajo de madurez tecnológica. En este nivel se observan los principios básicos de una tecnología. Generalmente consiste en investigación científica temprana y formulación de conceptos tecnológicos."
+    },
+    {
+        "instruction": "¿Qué actividades se llevan a cabo en el TRL 1?",
+        "input": "",
+        "output": "En el TRL 1 se llevan a cabo actividades relacionadas con la investigación básica. En este nivel, se observan y reportan los principios básicos de la nueva tecnología. Es el punto de partida en el que se comienza a comprender y documentar los fundamentos de una tecnología emergente."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 1?",
+        "input": "",
+        "output": "En el TRL 1, la evaluación se centra en determinar si se han observado los principios científicos subyacentes a la tecnología y si se han publicado artículos que los describen. No hay evaluación experimental en este nivel."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 1?",
+        "input": "",
+        "output": "En el TRL 1, la evaluación consiste principalmente en determinar si se han observado experimentalmente los principios científicos básicos subyacentes a la tecnología propuesta. Esto implica revisar si existen publicaciones científicas en revistas especializadas que reporten la identificación y observación de los fenómenos y propiedades fundamentales de la tecnología. \n\n La evaluación se enfoca en validar que la investigación básica ya permitió revelar los aspectos científicos clave de la tecnología a nivel teórico y experimental. Sin embargo, en TRL 1 no se evalúan capacidades técnicas ni se realizan pruebas controladas, solo se confirma mediante la literatura científica que los principios básicos ya fueron observados y comprendidos a nivel fundamental."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 1?",
+        "input": "",
+        "output": "Los principales resultados en el TRL 1 son la identificación de los principios básicos de la tecnología y la publicación de artículos científicos describiéndolos. No se obtienen resultados experimentales."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 1?",
+        "input": "",
+        "output": " El TRL 1 se demuestra mediante la publicación de artículos científicos en revistas especializadas que describen la observación de los principios básicos. Las referencias a estos artículos son evidencia del TRL 1."
+    },
+    {
+        "instruction": "¿Qué actividades típicas se realizan en el TRL 1?",
+        "input": "",
+        "output": "Las actividades comunes en TRL 1 incluyen investigación básica para observar fenómenos, identificar propiedades y conceptos teóricos, y publicar hallazgos en la literatura científica. No hay construcción o pruebas experimentales."
+    },
+    {
+        "instruction": "¿En qué se diferencia la evaluación del TRL 1 del TRL 2?",
+        "input": "",
+        "output": "El TRL 2 se demuestra a través de publicaciones y referencias que subrayan las aplicaciones posibles de la nueva tecnología, a diferencia del TRL 1 donde las publicaciones se enfocan en reportar los principios básicos observados. En el TRL 2 las publicaciones deben formular el concepto tecnológico y sus usos potenciales."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 1 de TRL?",
+        "input": "",
+        "output": "El TRL 1 representa la observación de los principios básicos. Es la investigación científica inicial en torno a una tecnología."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 1?",
+        "input": "",
+        "output": "El TRL 1 se relaciona con la etapa de investigación básica."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 1?",
+        "input": "",
+        "output": "En el TRL 1 se realizan actividades de observación científica de los principios fundamentales de una tecnología y publicación de artículos que describen estos principios."
+    },
+    {
+        "instruction": "¿Qué resultados se obtienen en el TRL 1?",
+        "input": "",
+        "output": "Los principales resultados esperados en el TRL 1 son la publicación de artículos científicos que describen los principios básicos observados y proponen posibles aplicaciones futuras de manera cualitativa."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 1?",
+        "input": "",
+        "output": " La finalización del TRL 1 se evidencia por medio de artículos científicos publicados que muestran que se han observado y descrito los principios básicos de la tecnología propuesta. Esto marca la transición hacia la investigación aplicada."
+    },
+    {
+        "instruction": "¿Qué limitaciones tiene el TRL 1?",
+        "input": "",
+        "output": "En el TRL 1 las aplicaciones prácticas de la tecnología aún son especulativas. No hay análisis o pruebas experimentales que confirmen que los principios básicos observados efectivamente permitirán aplicaciones futuras."
+    },
+    {
+        "instruction": "En el TRL 1, ¿se suelen realizar pruebas experimentales o se trabaja solo a nivel teórico?",
+        "input": "",
+        "output": "En el TRL 1 normalmente solo se trabaja a nivel teórico y de observación científica de principios básicos. No se realizan aún pruebas experimentales o análisis para validar las aplicaciones potenciales de dichos principios. Recién en el TRL 2 comienzan pequeños experimentos para hacer una 'prueba de concepto'. El TRL 1 implica observación científica e hipótesis teóricas documentadas en publicaciones, sin validación experimental."
+    },
+    {
+        "instruction": "¿Cómo se define el Nivel 1 del TRL?",
+        "input": "",
+        "output": "El Nivel 1 corresponde a los 'Principios básicos observados y reportados'. Es el nivel más bajo de madurez tecnológica, donde comienza la investigación científica básica y empieza la transición hacia la investigación aplicada."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades corresponden al TRL 1?",
+        "input": "",
+        "output": "En el TRL 1 se realizan actividades como formulaciones matemáticas, algoritmos, estudios analíticos de las propiedades básicas, entre otros. Aún no hay aplicaciones prácticas ni pruebas que validen la tecnología."
+    },
+    {
+        "instruction": "¿La tecnología tiene alguna aplicación comercial en el TRL 1?",
+        "input": "",
+        "output": "No, en la fase 1 del TRL aún no existe ningún grado de aplicación comercial de la tecnología. Es la etapa más temprana del desarrollo."
+    },
+    {
+        "instruction": "¿Cómo se determina que una tecnología está en Nivel 1 de TRL?",
+        "input": "",
+        "output": "Se considera Nivel 1 cuando la tecnología sólo cuenta con principios básicos observados, estudios analíticos preliminares o propuestas teóricas, y no ha sido probada aún para validar sus aplicaciones o funcionalidades."
+    },
+    {
+        "instruction": "¿Qué ejemplos hay de tecnologías en TRL 1?",
+        "input": "",
+        "output": "Algunos ejemplos son: estudios de las propiedades básicas de nuevos materiales, conceptos teóricos para dispositivos, desarrollo de modelos y algoritmos informáticos sin validar, entre otros."
+    },
+    {
+        "instruction": "¿Qué es el TRL 2?",
+        "input": "",
+        "output": "El TRL 2 corresponde a la formulación del concepto tecnológico. En este nivel se formula la aplicación deseada de la tecnología y se identifican sus posibles usos."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 2?",
+        "input": "",
+        "output": "En el TRL 2, la evaluación se centra en determinar si se ha formulado un concepto tecnológico y si se han identificado aplicaciones potenciales a través de estudios analíticos. No hay pruebas experimentales."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 2?",
+        "input": "",
+        "output": "En el TRL 2, la evaluación se centra en determinar si se ha formulado un concepto tecnológico, es decir, si se han identificado los usos básicos y las propiedades fundamentales de la arquitectura de la tecnología. Esto se realiza a través de estudios analíticos y no implica pruebas experimentales."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 2?",
+        "input": "",
+        "output": "Los principales resultados en TRL 2 son la formulación del concepto tecnológico y la identificación de aplicaciones posibles. Se generan principalmente publicaciones y estudios analíticos."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 2?",
+        "input": "",
+        "output": "El TRL 2 se demuestra a través de publicaciones y estudios que formulan el concepto tecnológico y destacan las posibles aplicaciones. Las referencias a estos trabajos sirven como evidencia."
+    },
+    {
+        "instruction": "¿Qué actividades típicas se realizan en el TRL 2?",
+        "input": "",
+        "output": "Las actividades comunes en TRL 2 incluyen estudios analíticos para formular el concepto tecnológico, identificar aplicaciones e investigar sus propiedades básicas. No se construyen prototipos."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 2 de TRL?",
+        "input": "",
+        "output": "El TRL 2 representa la formulación del concepto tecnológico. Se formulan posibles aplicaciones prácticas y el plan para desarrollar la tecnología."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 2?",
+        "input": "",
+        "output": "El TRL 2 está relacionado con la transición entre la investigación básica y la investigación aplicada."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 2?",
+        "input": "",
+        "output": "En el TRL 2 se realizan actividades como formulación del concepto, pequeños experimentos de 'prueba de concepto', desarrollo de herramientas de modelamiento y simulación, e identificación de posibles aplicaciones y usuarios."
+    },
+    {
+        "instruction": "¿Qué resultados se obtienen en el TRL 2?",
+        "input": "",
+        "output": "Los resultados del TRL 2 incluyen publicaciones que describen posibles aplicaciones, análisis preliminares, y resultados experimentales que apoyan el concepto."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 2?",
+        "input": "",
+        "output": "La finalización del TRL 2 se evidencia cuando se ha formulado y documentado el concepto tecnológico y su aplicación potencial mediante experimentos y herramientas analíticas iniciales."
+    },
+    {
+        "instruction": "¿Qué limitaciones tiene el TRL 2?",
+        "input": "",
+        "output": "En el TRL 2 la tecnología aún no ha sido probada experimentalmente. Se requiere validación adicional para determinar si el concepto podrá efectivamente convertirse en una tecnología aplicable."
+    },
+    {
+        "instruction": "En el TRL 2, ¿se suelen abordar aspectos de propiedad intelectual o comercialización de la futura tecnología?",
+        "input": "",
+        "output": "En el TRL 2 normalmente aún no se consideran en detalle aspectos de propiedad intelectual o comercialización, porque la tecnología se encuentra en una etapa temprana de formulación conceptual. Sin embargo, en este nivel podrían empezar a identificarse potenciales aplicaciones comerciales y usuarios, así como oportunidades y riesgos en cuanto a propiedad intelectual. La evaluación detallada de estos aspectos ocurriría en niveles posteriores del TRL cuando la tecnología se acerque más a una posible salida comercial."
+    },
+    {
+        "instruction": "¿En qué consiste el Nivel 2 del TRL?",
+        "input": "",
+        "output": "El Nivel 2 corresponde a la formulación del concepto tecnológico y/o su aplicación. Se inicia el estudio para el desarrollo de la tecnología."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 2?",
+        "input": "",
+        "output": "Se diseñan modelos y se desarrollan conceptos para posibles aplicaciones de la tecnología. Se pueden crear modelos de fabricación o análisis. Aún no hay pruebas detalladas que validen la aplicación."
+    },
+    {
+        "instruction": "¿La tecnología tiene aplicaciones comerciales en el TRL 2?",
+        "input": "",
+        "output": "No, en el nivel 2 la aplicación es especulativa y no está validada. No hay aplicaciones comerciales todavía."
+    },
+    {
+        "instruction": "¿Cómo se determina que una tecnología alcanzó el TRL 2?",
+        "input": "",
+        "output": "Se considera Nivel 2 cuando se ha formulado el concepto tecnológico y su aplicación, se cuenta con un plan inicial de desarrollo, pero aún sin validaciones experimentales detalladas."
+    },
+    {
+        "instruction": "¿Qué ejemplos existen de tecnologías en TRL 2?",
+        "input": "",
+        "output": "Algunos ejemplos son el diseño de modelos farmacológicos y de fabricación de nuevos compuestos, modelos de aplicación y análisis teóricos de dispositivos, entre otros."
+    },
+    {
+        "instruction": "¿Qué es el TRL 3?",
+        "input": "",
+        "output": "El TRL 3 corresponde a la prueba de concepto analítico y experimental, en donde se llevan a cabo estudios y experimentos para confirmar que los conceptos tecnológicos formulados son viables."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 3?",
+        "input": "",
+        "output": "En TRL 3 la evaluación se enfoca en determinar si la tecnología pasa la prueba de concepto a través de estudios analíticos y experimentales que validen las predicciones sobre su funcionamiento."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 3?",
+        "input": "",
+        "output": "Los principales resultados del TRL 3 son la demostración analítica y experimental de las funciones críticas y conceptos subyacentes de la tecnología."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 3?",
+        "input": "",
+        "output": " El TRL 3 se demuestra mediante estudios y experimentos de laboratorio controlados que proveen medidas de parámetros y validación de las predicciones analíticas."
+    },
+    {
+        "instruction": "¿Qué actividades típicas se realizan en el TRL 3?",
+        "input": "",
+        "output": "Las actividades clave en TRL 3 son experimentos de laboratorio, tests analíticos y simulaciones para probar los conceptos y teorías centrales de la tecnología."
+    },
+    {
+        "instruction": "¿El TRL 3 implica un prototipo?",
+        "input": "",
+        "output": "No, el TRL 3 se enfoca en probar conceptos por lo que no requiere de un prototipo, solo de experimentos analíticos y de laboratorio para validar teorías."
+    },
+    {
+        "instruction": "¿Qué diferencia al TRL 3 del TRL 2?",
+        "input": "",
+        "output": "El TRL 3 avanza del concepto tecnológico a la demostración experimental de principios críticos de la tecnología, mientras que el TRL 2 solo formula el concepto."
+    },
+    {
+        "instruction": "¿El TRL 3 significa que la tecnología está lista para aplicaciones prácticas?",
+        "input": "",
+        "output": "No necesariamente, el TRL 3 solo prueba viabilidad analítica y experimental pero se requiere mayor desarrollo de la tecnología para aplicaciones prácticas."
+    },
+    {
+        "instruction": "Qué es la demostración analítica y experimental realizada en el TRL 3?",
+        "input": "",
+        "output": "La demostración analítica se refiere a la validación de los conceptos y teorías centrales de la tecnología a través de estudios teóricos, simulaciones computacionales y modelado matemático. Por ejemplo, se pueden usar modelos y fórmulas para predecir el desempeño o propriedades de la tecnología.\n\n La demostración experimental implica someter esas predicciones analíticas a experimentos controlados de laboratorio para obtener datos reales de desempeño y comportamiento. Por ejemplo, se pueden construir prototipos experimentales, aunque limitados, para probar una funcionalidad crítica en condiciones controladas.\n\n En resumen, en TRL 3 se combinan estudios teóricos y prácticos experimentales para probar los conceptos centrales de la tecnología propuesta. Esto da más confianza en la viabilidad antes de pasar a desarrollos más complejos."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 3 de TRL?",
+        "input": "",
+        "output": "El TRL 3 representa la prueba experimental del concepto tecnológico. Se realizan estudios analíticos y experimentos a pequeña escala para validar las predicciones."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 3?",
+        "input": "",
+        "output": "El TRL 3 se relaciona con la etapa de investigación aplicada."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 3?",
+        "input": "",
+        "output": "En el TRL 3 se realizan pruebas de laboratorio, mediciones y comparaciones con predicciones analíticas para validar los componentes individuales de la tecnología."
+    },
+    {
+        "instruction": "¿Qué resultados se obtienen en el TRL 3?",
+        "input": "",
+        "output": "Los resultados del TRL 3 incluyen modelos y datos experimentales que validan las predicciones y muestran que el concepto funciona."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 3?",
+        "input": "",
+        "output": "La finalización del TRL 3 se evidencia cuando los experimentos demuestran y documentan que el concepto tecnológico es viable físicamente."
+    },
+    {
+        "instruction": "¿Qué limitaciones tiene el TRL 3?",
+        "input": "",
+        "output": "En el TRL 3 la experimentación se limita a validar los componentes individuales, aún no como un sistema completo."
+    },
+    {
+        "instruction": "En el TRL 3, ¿se suelen abordar aspectos de propiedad intelectual o comercialización de la tecnología?",
+        "input": "",
+        "output": "En el TRL 3 podrían empezar a considerarse aspectos de propiedad intelectual, pero no suele ser el enfoque en esta etapa aún temprana. La comercialización se analizaría con mayor profundidad en niveles posteriores."
+    },
+    {
+        "instruction": "¿Qué implica alcanzar el nivel 3 de TRL?",
+        "input": "",
+        "output": "El TRL 3 implica realizar pruebas experimentales y análisis para demostrar la viabilidad técnica del concepto tecnológico. Se busca evidencia que apoye la factibilidad."
+    },
+    {
+        "instruction": "¿Cómo se refiere comúnmente al TRL 3?",
+        "input": "",
+        "output": "El nivel 3 también se conoce como 'prueba de concepto'. Representa el inicio de I+D activa sobre la tecnología."
+    },
+    {
+        "instruction": "¿Qué tipo de estudios se realizan en la etapa 3?",
+        "input": "",
+        "output": "En esta etapa se hacen estudios analíticos y de laboratorio, pruebas a pequeña escala, prototipos preliminares y experimentos controlados, para obtener datos técnicos y validar analíticamente el concepto."
+    },
+    {
+        "instruction": "¿La tecnología tiene aplicaciones comerciales en TRL 3?",
+        "input": "",
+        "output": "No, en esta fase la tecnología todavía no es comercializable. El propósito es demostrar analíticamente su potencial y viabilidad."
+    },
+    {
+        "instruction": "¿Cómo demostrar que se alcanzó el nivel 3 de preparación?",
+        "input": "",
+        "output": "Mediante estudios y resultados experimentales que evidencien la factibilidad técnica de la tecnología a nivel de laboratorio o en paper."
+    },
+    {
+        "instruction": "¿Cuál es la diferencia entre el TRL 2 y el TRL 3?",
+        "input": "",
+        "output": "La diferencia entre el TRL 2 y el TRL 3 radica en el progreso de la tecnología. El TRL 2 representa la etapa en la que la tecnología está en fase de concepto y se ha llevado a cabo la formulación de conceptos y principios. Por otro lado, el TRL 3 indica que se ha demostrado la viabilidad de la tecnología a través de experimentos o análisis detallados. En resumen, el TRL 2 se centra en la formulación de conceptos, mientras que el TRL 3 se enfoca en la viabilidad de la tecnología."
+    },
+    {
+        "instruction": "¿Cuál es la importancia de la viabilidad demostrada en el TRL 3?",
+        "input": "",
+        "output": "La importancia de la viabilidad demostrada en el TRL 3 radica en que es el punto en el que se demuestra que la tecnología propuesta es factible y puede funcionar en un entorno de laboratorio. Esto es crucial para determinar si el camino emprendido es adecuado para llegar a disponer de un producto comercial en el futuro."
+    },
+    {
+        "instruction": "¿Qué es el TRL 4?",
+        "input": "",
+        "output": "El TRL 4 consiste en la validación de los componentes tecnológicos en un entorno de laboratorio para demostrar que los elementos individuales funcionan juntos como un sistema."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 4?",
+        "input": "",
+        "output": "La evaluación en TRL 4 se enfoca en los resultados de las pruebas realizadas en laboratorio para validar el desempeño de los componentes integrados en un prototipo de baja fidelidad y en un enetorno de la laboratorio."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 4?",
+        "input": "",
+        "output": "Los principales resultados del TRL 4 son la validación de los componentes y la demostración de que pueden operar conjuntamente de forma integrada, su potencial y limitaciones iniciales."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 4?",
+        "input": "",
+        "output": "El TRL 4 se demuestra con resultados experimentales de laboratorio que verifican el correcto funcionamiento de los componentes integrados."
+    },
+    {
+        "instruction": "¿Qué actividades típicas se realizan en el TRL 4?",
+        "input": "",
+        "output": "Las actividades clave en TRL 4 son pruebas de laboratorio, integración de componentes, análisis preliminares técnicos y económicos e identificación temprana de riesgos. En un entorno controlado de laboratorio para validar el prototipo inicial."
+    },
+    {
+        "instruction": "¿El TRL 4 implica un prototipo completo?",
+        "input": "",
+        "output": "No necesariamente, en TRL 4 se ensamblan los componentes pero no se tiene un prototipo totalmente integrado y completo ya que es un prototipo inicial."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se llevan a cabo en el TRL 4?",
+        "input": "",
+        "output": "En el TRL 4 se llevan a cabo actividades de desarrollo a pequeña escala en un entorno de laboratorio. Esto implica la realización de pruebas y experimentos para validar la tecnología en un entorno controlado antes de pasar a pruebas a mayor escala."
+    },
+    {
+        "instruction": "¿Cómo difiere el TRL 4 del TRL 3?",
+        "input": "",
+        "output": "El TRL 4 avanza de la prueba de conceptos tecnológicos a la integración y validación de los distintos componentes entre sí, para obtener un prototipo inicial de baja fidelidad."
+    },
+    {
+        "instruction": "¿El TRL 4 significa que la tecnología está lista para uso práctico?",
+        "input": "",
+        "output": "No, el TRL 4 solo valida los componentes en laboratorio, se requiere mayor desarrollo e integración para aplicaciones prácticas."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 4 de TRL?",
+        "input": "",
+        "output": "El TRL 4 representa la validación de los componentes de la tecnología y su posible integracion en un prototipo en un entorno de laboratorio."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 4?",
+        "input": "",
+        "output": "El TRL 4 está relacionado con la transición de la investigación aplicada al desarrollo tecnológico."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 4?",
+        "input": "",
+        "output": "En el TRL 4 se integran y prueban los componentes básicos en un entorno de laboratorio para validar que funcionan juntos como un sistema."
+    },
+    {
+        "instruction": "¿Qué resultados se obtienen en el TRL 4?",
+        "input": "",
+        "output": "Los resultados del TRL 4 son modelos, prototipos y datos experimentales que validan el sistema a nivel de laboratorio. No se requiere que el prototipo tenga todas las funciones o la forma final, puede haber varias iteraciones de prototipos para ir refinando el diseño."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 4?",
+        "input": "",
+        "output": "La finalización del TRL 4 se demuestra cuando las pruebas de laboratorio muestran que los componentes tecnológicos integrados funcionan correctamente como un sistema y su rendimiento demuestra concordancia con predicciones analíticas."
+    },
+    {
+        "instruction": "¿Qué limitaciones tiene el TRL 4?",
+        "input": "",
+        "output": "Las principales limitaciones del TRL 4 son: \n\n- La validación se limita a un entorno de laboratorio, no en condiciones reales.\n\n- La evaluación se enfoca en un prototipo inicial, aún no como un sistema completo. \n\n- No se han identificado todos los posibles problemas o riesgos asociados a la implementación o manufactura a gran escala."
+    },
+    {
+        "instruction": "En el TRL 4, ¿se analizan aspectos de escalabilidad y viabilidad de manufactura?",
+        "input": "",
+        "output": "En el TRL 4 suelen identificarse consideraciones iniciales sobre escalabilidad y viabilidad de manufactura de la tecnología. Pero el análisis detallado ocurre en niveles posteriores."
+    },
+    {
+        "instruction": "¿Qué implica alcanzar el nivel 4 de TRL?",
+        "input": "",
+        "output": "El nivel 4 implica la validación de los componentes y subsistemas de la tecnología como un sistema integrado en entornos de laboratorio."
+    },
+    {
+        "instruction": "¿Cómo se refiere comúnmente al TRL 4?",
+        "input": "",
+        "output": "El nivel 4 se conoce como validación de componentes o subsistemas en entorno de laboratorio."
+    },
+    {
+        "instruction": "¿Qué tipo de estudios se realizan en la etapa 4?",
+        "input": "",
+        "output": "En esta etapa se realizan pruebas de laboratorio para demostrar que los distintos componentes de la tecnología funcionan de forma integrada. Se valúa el potencial y limitaciones iniciales."
+    },
+    {
+        "instruction": "¿La tecnología tiene aplicaciones comerciales en TRL 4?",
+        "input": "",
+        "output": "No tiene aplicaciones comerciales todavía. Está en una fase preliminar de desarrollo."
+    },
+    {
+        "instruction": "¿Cómo demostrar que se alcanzó el nivel 4 de TRL?",
+        "input": "",
+        "output": "Mediante pruebas que validen el funcionamiento en conjunto de los componentes clave de la tecnología en entornos controlados de laboratorio."
+    },
+    {
+        "instruction": "¿Qué es el TRL 5?",
+        "input": "",
+        "output": "El TRL 5 consiste en la validación de los componentes tecnológicos en un entorno relevante para demostrar que pueden operar en condiciones similares al esperado en el mundo real."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 5?",
+        "input": "",
+        "output": "La evaluación en TRL 5 se centra en los resultados de las pruebas realizadas en un entorno relevante que validen el funcionamiento de los componentes que permitan refinar el sistema."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 5?",
+        "input": "",
+        "output": "Los principales resultados de TRL 5 son la validación de componentes en condiciones próximas a las del entorno real de la tecnología, datos más realistas para refinar los sistemas y la identificación de limitaciones regulatorias, ambientales, etc."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 5?",
+        "input": "",
+        "output": " El TRL 5 se demuestra con pruebas de los componentes integrados en un entorno de simulación relevante y controlado."
+    },
+    {
+        "instruction": "¿Qué actividades típicas se realizan en el TRL 5?",
+        "input": "",
+        "output": "Actividades clave en TRL 5 son pruebas en entornos controlados de simulación, verificación de requisitos y recolección de métricas de desempeño en un entorno relevante que simule el mundo real."
+    },
+    {
+        "instruction": "¿El TRL 5 implica un prototipo completo?",
+        "input": "",
+        "output": "No necesariamente, en TRL 5 se prueba un prototipo de lata fidelidad similar a su aplicación final en una simulación de un entorno real."
+    },
+    {
+        "instruction": "¿Cómo difiere el TRL 5 del TRL 4?",
+        "input": "",
+        "output": "El TRL 5 avanza de pruebas de laboratorio de prototipos iniciales y de baja fidelidad a probar sistemas similares a la aplicación final en condiciones más próximas a su uso final en el mundo real."
+    },
+    {
+        "instruction": "¿El TRL 5 significa que la tecnología está lista para uso práctico?",
+        "input": "",
+        "output": "No, en TRL 5 solo se prueban los componentes integrados de la tecnología en condiciones controladas similares a las reales."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 5 de TRL?",
+        "input": "",
+        "output": "El TRL 5 representa la validación de los componentes tecnológicos integrados en un entorno simulado o realista."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 5?",
+        "input": "",
+        "output": "El TRL 5 está relacionado con el desarrollo tecnológico."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 5?",
+        "input": "",
+        "output": "En el TRL 5 se realizan pruebas a escala en entornos simulados que representan condiciones reales de operación, refinamiento de modelos en base a los datos, identificación de limitaciones para el despliegue."
+    },
+    {
+        "instruction": "¿Qué resultados se obtienen en el TRL 5?",
+        "input": "",
+        "output": "Los resultados del TRL 5 son prototipos de lata fidelidad que validan el desempeño de los componentes integrados en condiciones cercanas a la realidad, datos realistas para refinar los modelos técnicos y económicos, reducción de riesgos en etapas de desarrollo posterior."
+    },
+    {
+        "instruction": "¿Qué limitaciones tiene el TRL 5?",
+        "input": "",
+        "output": "Las limitaciones del TRL 5 son debido a que las pruebas se hacen con prototipos de mediana fidelidad pero sin todas las caracteristicas finales y en entornos similares al real, no directamente en el ambiente real por lo que los datos se asemejan a la realidad mas no lo son."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 5?",
+        "input": "",
+        "output": "La finalización del TRL 5 se demuestra cuando las pruebas muestran que el sistema funciona en un entorno simulado que representa condiciones cercanas a la realidad, validando así el desempeño estimado del sistema. Los resultados se documentan en informes de pruebas y modelos."
+    },
+    {
+        "instruction": "En el TRL 5, ¿se analiza la viabilidad de producción?",
+        "input": "",
+        "output": "En el TRL 5 se analizan conceptualmente la producibilidad y viabilidad de manufactura, pero aún no se demuestran procesos de producción a escala."
+    },
+    {
+        "instruction": "¿Cómo se refiere comúnmente al TRL 5?",
+        "input": "",
+        "output": "El nivel 5 se conoce como validación de componentes y subsistemas en un entorno relevante."
+    },
+    {
+        "instruction": "¿Qué tipo de estudios se realizan en la etapa 5?",
+        "input": "",
+        "output": "En esta etapa se hacen nuevas pruebas con prototipos de mediana fidelidad, en condiciones simuladas más fieles a la operación real. Se refinan los modelos."
+    },
+    {
+        "instruction": "¿La tecnología tiene aplicaciones comerciales en TRL 5?",
+        "input": "",
+        "output": "Todavía no es comercializable. Se está probando en entornos controlados cercanos a los reales."
+    },
+    {
+        "instruction": "¿Cómo demostrar que se alcanzó el nivel 5 de preparación?",
+        "input": "",
+        "output": "Mediante un prototipo similar a su aplicación final, que mediante pruebas en un entrono relevante similar al mundo real, demuestre un rendimiento aceptable segun lo estimado con predicciones analíticas."
+    },
+    {
+        "instruction": "¿En qué consiste el TRL 6?",
+        "input": "",
+        "output": "El TRL 6 consiste en la demostración de un prototipo con funcionalidad completa del sistema tecnológico en un entorno realista en condiciones próximas a las reales."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 6?",
+        "input": "",
+        "output": "En TRL 6 la evaluación se enfoca en los resultados de las pruebas realizadas al prototipo final que aborde adecuadamente todos los problemas críticos de escalabilidad en un entorno realista para demostrar la operación en condiciones críticas."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 6?",
+        "input": "",
+        "output": "Los principales resultados de TRL 6 son la validación y demostración de desempeño en la implementación de prototipos finales demostrados en problemas realistas a escala completa. Integración parcial con sistemas existentes. Documentación limitada disponible. Viabilidad técnica totalmente demostrada."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 6?",
+        "input": "",
+        "output": "El TRL 6 se demuestra con pruebas controladas del prototipo en un ambiente realista que simule condiciones operacionales reales y criticas."
+    },
+    {
+        "instruction": "¿Qué actividades típicas se realizan en el TRL 6?",
+        "input": "",
+        "output": "Actividades claves en TRL 6 son pruebas del prototipo final, recolección de métricas de desempeño  para identificar mejoras y optimizaciones, comparación con requerimientos para el perfeccionamiento de modelos y se demuestra la viabilidad comercial y técnica."
+    },
+    {
+        "instruction": "¿El TRL 6 implica un prototipo en el mundo real?",
+        "input": "",
+        "output": "No, en TRL 6 el prototipo se prueba en un ambiente controlado de simulación, no en condiciones totalmente reales sin embargo la simulación es en condiciones lo más proximas a las reales."
+    },
+    {
+        "instruction": "¿El TRL 6 implica un prototipo completo?",
+        "input": "",
+        "output": "Si, en el TRL 6 se pasa de las pruebas de prototipos proximos al producto final de la tecnología a un prototipo completamente funcional que cumpla todos los requerimientos y este listo para su despliegue."
+    },
+    {
+        "instruction": "¿Cómo difiere el TRL 6 del TRL 5?",
+        "input": "",
+        "output": "El TRL 6 avanza de la validación de componentes a nivel de prototipo de sistema completo."
+    },
+    {
+        "instruction": "¿El TRL 6 significa que el sistema está listo para entornos reales?",
+        "input": "",
+        "output": "No, el TRL 6 solo implica pruebas en simulación, se requiere mayor demostración en el mundo real."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 6 de TRL?",
+        "input": "",
+        "output": "El TRL 6 representa la demostración del sistema tecnológico en un entorno realista."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 6?",
+        "input": "",
+        "output": "El TRL 6 está relacionado con el desarrollo tecnológico y la transición hacia la innovación."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 6?",
+        "input": "",
+        "output": "En el TRL 6 se realizan pruebas en condiciones similares al entorno real para demostrar escalabilidad y funcionalidad."
+    },
+    {
+        "instruction": "¿Qué resultados se obtienen en el TRL 6?",
+        "input": "",
+        "output": "Los resultados del TRL 6 son prototipos, demos y datos que validan el sistema en condiciones cercanas a la operación real."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 6?",
+        "input": "",
+        "output": "La finalización del TRL 6 se demuestra cuando las pruebas muestran que el prototipo final funciona correctamente en un entorno lo más parecido posible al ambiente real."
+    },
+    {
+        "instruction": "¿Qué limitaciones tiene el TRL 6?",
+        "input": "",
+        "output": "La limitación del TRL 6 es que las pruebas aún no se realizan en el ambiente real de operación final."
+    },
+    {
+        "instruction": "En el TRL 6, ¿se analizan aspectos de manufactura?",
+        "input": "",
+        "output": "En el TRL 6 se analiza la manufacturabilidad, se identifican procesos y se modela la producción a escala, pero no se demuestra completamente la capacidad de producción."
+    },
+    {
+        "instruction": "¿Qué implica alcanzar el nivel 6 de TRL?",
+        "input": "",
+        "output": "El nivel 6 implica validar un prototipo o modelo final representativo de la tecnología en un entorno realista, muy cercano al mundo real."
+    },
+    {
+        "instruction": "¿Cómo se refiere comúnmente al TRL 6?",
+        "input": "",
+        "output": "El nivel 6 se conoce como demostración de prototipo en ambiente realista."
+    },
+    {
+        "instruction": "¿Qué tipo de estudios se realizan en la etapa 6?",
+        "input": "",
+        "output": "En esta etapa se hacen demostraciones, pruebas y optimizaciones de prototipos en condiciones similares a las del ambiente operativo real."
+    },
+    {
+        "instruction": "¿La tecnología tiene aplicaciones comerciales en TRL 6?",
+        "input": "",
+        "output": "Aún no es comercializable. Se está probando en condiciones muy cercanas a las reales."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se consideran en el TRL 6?",
+        "input": "",
+        "output": "En el TRL 6 se lleva a cabo la validación de un sistema o prototipo en un entorno realista simulado. Esto implica la realización de pruebas y experimentos en un entorno que simula condiciones reales, pero no es un entorno operacional real."
+    },
+    {
+        "instruction": "¿Cómo demostrar que se alcanzó el nivel 6 de preparación?",
+        "input": "",
+        "output": "Mediante pruebas exhaustivas de prototipos en ambientes lo más parecidos posible al escenario de aplicación real."
+    },
+    {
+        "instruction": "¿En qué consiste el TRL 7?",
+        "input": "",
+        "output": "El TRL 7 consiste en la demostración de un prototipo del sistema tecnológico en un entorno real para probar su funcionamiento en condiciones operacionales."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 7?",
+        "input": "",
+        "output": "En TRL 7 la evaluación se centra en los resultados de las pruebas del sistema en el ambiente real de operación previsto."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 7?",
+        "input": "",
+        "output": "Los principales resultados de TRL 7 son la validación y demostración del sistema cerca de su configuración final con toda la funcionalidad clave disponible operando en su ambiente real de trabajo."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 7?",
+        "input": "",
+        "output": "El TRL 7 se demuestra probando el prototipo en condiciones 100% reales, no simuladas, y obteniendo métricas de desempeño aceptables en su operación."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se llevan a cabo en el TRL 7?",
+        "input": "",
+        "output": "En el nivel de madurez tecnológica TRL 7, se llevan a cabo demostraciones y validaciones en condiciones reales de operación. Este nivel es crucial, ya que se identifican posibles mejoras y se resuelven problemas menores. Se demuestra la viabilidad y efectividad de la tecnología en un entorno práctico, lo que es un paso fundamental antes del despliegue a gran escala."
+    },
+    {
+        "instruction": "¿Qué actividades típicas se realizan en el TRL 7?",
+        "input": "",
+        "output": "Actividades clave en TRL 7 son pruebas del prototipo en ambiente real, análisis de métricas y requerimientos, identificación de mejoras y se completa la documentación técnica asociada."
+    },
+    {
+        "instruction": "¿El TRL 7 implica un sistema completamente certificado?",
+        "input": "",
+        "output": "No, el TRL 7 implica un prototipo probado en condiciones reales pero aún no certificado para operación total."
+    },
+    {
+        "instruction": "¿Cómo difiere el TRL 7 del TRL 6?",
+        "input": "",
+        "output": "El TRL 7 avanza de pruebas simuladas a demostración del prototipo en ambiente real de trabajo para la recopilación de datos de desempeño."
+    },
+    {
+        "instruction": "¿El TRL 7 significa que el sistema está listo para producción?",
+        "input": "",
+        "output": "No necesariamente, se requiere la certificación completa del sistema para llegar a producción a escala real."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 7 de TRL?",
+        "input": "",
+        "output": "El TRL 7 representa la demostración del prototipo del sistema en su ambiente real de operación."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 7?",
+        "input": "",
+        "output": "El TRL 7 está relacionado con el desarrollo tecnológico avanzado y la transición hacia la innovación."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 7?",
+        "input": "",
+        "output": "En el TRL 7 se realizan pruebas y demostraciones del prototipo en condiciones reales de operación para validar su funcionamiento."
+    },
+    {
+        "instruction": "¿Qué resultados se obtienen en el TRL 7?",
+        "input": "",
+        "output": "Los resultados del TRL 7 son prototipos totalmente funcionales probados en ambientes reales y datos que validan su desempeño."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 7?",
+        "input": "",
+        "output": "La finalización del TRL 7 se demuestra cuando las pruebas en ambiente real muestran que el prototipo funciona correctamente en condiciones operativas reales."
+    },
+    {
+        "instruction": "¿Qué limitaciones tiene el TRL 7?",
+        "input": "",
+        "output": "Las principales limitaciones del TRL 7 son que aún hay mejoras y ajustes necesarios para la producción total."
+    },
+    {
+        "instruction": "En el TRL 7, ¿se ha demostrado la capacidad de manufactura?",
+        "input": "",
+        "output": "En el TRL 7 se evalúa la manufacturabilidad pero aún no se demuestra completamente la producción a escala real."
+    },
+    {
+        "instruction": "¿Qué representa alcanzar el nivel 7 del TRL?",
+        "input": "",
+        "output": "Alcanzar el TRL 7 representa haber demostrado un prototipo del sistema tecnológico en un entorno operativo real."
+    },
+    {
+        "instruction": "¿Cómo se podría denominar la etapa 7 de desarrollo?",
+        "input": "",
+        "output": "La etapa 7 se puede denominar como demostración de prototipo en ambiente operativo."
+    },
+    {
+        "instruction": "¿Qué se busca probar en el nivel 7?",
+        "input": "",
+        "output": "En el nivel 7 se busca probar y demostrar que el prototipo funciona en condiciones operativas totalmente reales, como las del usuario final."
+    },
+    {
+        "instruction": "¿Qué se debe haber logrado previamente en la etapa del TRL 7?",
+        "input": "",
+        "output": "Se debe haber probado antes el prototipo en condiciones simuladas muy cercanas a la operación real (TRL 6)."
+    },
+    {
+        "instruction": "¿Cómo demostrar que se alcanzó el nivel 7 de preparación?",
+        "input": "",
+        "output": "Demostrando con pruebas que el prototipo funciona correctamente al ser probado en un ambiente operativo real y no simulado."
+    },
+    {
+        "instruction": "¿En qué consiste el TRL 8?",
+        "input": "",
+        "output": "El TRL 8 consiste en la finalización del sistema tecnológico para que sea calificado mediante pruebas y demostrciones, obteniendo así la certificación."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 8?",
+        "input": "",
+        "output": "En TRL 8 la evaluación se enfoca en los resultados de las pruebas de calificación del sistema completo para obtener la certificación."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 8?",
+        "input": "",
+        "output": "Los principales resultados de TRL 8 son la certificación y calificación del sistema completo listo para ser producido y comercializado mediante pruebas exhaustivas."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 8?",
+        "input": "",
+        "output": "El TRL 8 se demuestra al aprobar todas las pruebas de calificación y certificación para validar el sistema finalizado."
+    },
+    {
+        "instruction": "¿Qué actividades típicas se realizan en el TRL 8?",
+        "input": "",
+        "output": "Actividades claves en TRL 8 son pruebas de calificación, análisis de certificación, verificación de proceso de producción."
+    },
+    {
+        "instruction": "¿El TRL 8 implica que el sistema está en producción?",
+        "input": "",
+        "output": "No necesariamente, el TRL 8 se enfoca en certificar el sistema, no su producción masiva."
+    },
+    {
+        "instruction": "¿Cómo difiere el TRL 8 del TRL 7?",
+        "input": "",
+        "output": "El TRL 8 avanza del prototipo a la certificación total del sistema finalizado antes de la producción."
+    },
+    {
+        "instruction": "¿El TRL 8 significa que el sistema está listo para comercializarse?",
+        "input": "",
+        "output": "Sí, el TRL 8 implica la certificación regulatoria para permitir la comercialización del sistema."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 8 de TRL?",
+        "input": "",
+        "output": "El TRL 8 representa el sistema completo calificado y probado para su aplicación final."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 8?",
+        "input": "",
+        "output": "El TRL 8 se relaciona con la etapa de innovación."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 8?",
+        "input": "",
+        "output": "En el TRL 8 se realizan pruebas de calificación y se demuestra que el sistema es capaz de desempeñarse en su ambiente operacional real."
+    },
+    {
+        "instruction": "¿Qué resultados se obtienen en el TRL 8?",
+        "input": "",
+        "output": "Los resultados del TRL 8 son un sistema totalmente probado y calificado, listo para ser implementado comercialmente."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 8?",
+        "input": "",
+        "output": "La finalización del TRL 8 se demuestra cuando todas las pruebas muestran que el sistema funciona correctamente en su aplicación final pretendida."
+    },
+    {
+        "instruction": "¿Qué limitaciones tiene el TRL 8?",
+        "input": "",
+        "output": "El TRL 8 tiene muy pocas limitaciones, ya que el sistema ha sido completamente calificado. Solo requiere la transición a producción."
+    },
+    {
+        "instruction": "En el TRL 8, ¿se ha demostrado la capacidad de producción?",
+        "input": "",
+        "output": "En el TRL 8 se ha demostrado la viabilidad de producción, pero aún no se alcanza fabricación en serie."
+    },
+    {
+        "instruction": "¿Qué son las pruebas de calificación que se realizan en el TRL 8?",
+        "input": "",
+        "output": "Las pruebas de calificación son pruebas exhaustivas que se le realizan al sistema en el TRL 8 para demostrar que funciona correctamente en su ambiente real y cumple con los requisitos necesarios para operar. Estas incluyen pruebas de funcionalidad, estrés, confiabilidad, usabilidad, seguridad e integración. El objetivo es validar que el sistema está listo para ser implementado comercialmente, ya que supera las pruebas en condiciones reales de operación."
+    },
+    {
+        "instruction": "¿Qué representa alcanzar el nivel 8 de TRL?",
+        "input": "",
+        "output": "El nivel 8 implica que el sistema tecnológico se ha calificado completamente mediante pruebas y demostraciones en su forma final y en condiciones operativas reales."
+    },
+    {
+        "instruction": "¿Cómo se podría denominar al TRL 8?",
+        "input": "",
+        "output": "El nivel 8 se puede denominar como sistema completo calificado a través de pruebas."
+    },
+    {
+        "instruction": "¿La tecnología está lista para comercialización en la etapa 8?",
+        "input": "",
+        "output": "Sí, en el nivel 8 la tecnología ya ha sido probada extensivamente y calificada, por lo que está lista para ser comercializada y producida."
+    },
+    {
+        "instruction": "¿Qué implicaciones tiene alcanzar el TRL 8?",
+        "input": "",
+        "output": "Alcanzar el TRL 8 implica que se han resuelto los problemas de implementación, la tecnología funciona como se esperaba, y está lista para ser lanzada al mercado."
+    },
+    {
+        "instruction": "¿Cómo se demuestra que la tecnología llegó al nivel 8?",
+        "input": "",
+        "output": "Mediante pruebas exhaustivas del sistema totalmente integrado, en condiciones 100% reales y rendimiento comprobado. La tecnología ya ha sido calificada."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 9 de TRL?",
+        "input": "",
+        "output": "El TRL 9 representa el sistema probado y en su forma final, listo para implementación comercial a gran escala."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 9?",
+        "input": "",
+        "output": "El TRL 9 se relaciona con la etapa de innovación y adopción en el mercado."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 9?",
+        "input": "",
+        "output": "En el TRL 9 se realiza la producción y comercialización del sistema, su transferencia a los clientes y el monitoreo post-implementación."
+    },
+    {
+        "instruction": "¿Qué resultados se obtienen en el TRL 9?",
+        "input": "",
+        "output": "El resultado del TRL 9 es el sistema en producción y disponible comercialmente para su adquisición y uso por los clientes."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 9?",
+        "input": "",
+        "output": "La finalización del TRL 9 se demuestra cuando el sistema se produce y comercializa de manera estable y exitosa."
+    },
+    {
+        "instruction": "¿Qué limitaciones tiene el TRL 9?",
+        "input": "",
+        "output": "El TRL 9 tiene muy pocas o ninguna limitación, ya que representa la adopción total del sistema."
+    },
+    {
+        "instruction": "¿En el TRL 9, se ha logrado manufactura a gran escala?",
+        "input": "",
+        "output": "En el TRL 9 se ha logrado y demostrado la capacidad de producción a gran escala para manufacturar y comercializar el sistema."
+    },
+    {
+        "instruction": "¿Qué representa haber alcanzado el TRL 9?",
+        "input": "",
+        "output": "Alcanzar el TRL 9 representa que la tecnología ha sido completamente probada y validada en condiciones operacionales reales, por lo que su desarrollo ha finalizado."
+    },
+    {
+        "instruction": "¿Cómo también se conoce al nivel 9 de preparación tecnológica?",
+        "input": "",
+        "output": "El TRL 9 también se conoce como 'sistema operacional comprobado'."
+    },
+    {
+        "instruction": "¿Qué se ha logrado en la etapa 9?",
+        "input": "",
+        "output": "En el TRL 9 se ha comprobado la efectividad y operatividad del sistema tecnológico en su forma final, en condiciones 100% reales y en aplicaciones prácticas."
+    },
+    {
+        "instruction": "¿La tecnología está lista para comercializarse en el nivel 9?",
+        "input": "",
+        "output": "Sí, en el TRL 9 la tecnología ya ha sido totalmente probada, por lo que ya puede ser comercializada y utilizada en aplicaciones del mundo real."
+    },
+    {
+        "instruction": "¿Cómo demostrar que se llegó al nivel 9 de TRL?",
+        "input": "",
+        "output": "Demostrando la total efectividad y funcionamiento óptimo de la tecnología en múltiples condiciones del mundo real durante un tiempo prolongado."
+    },
+    {
+        "instruction": "¿Cuál es la diferencia principal entre un sistema tecnológico que se encuentra en un nivel de preparación TRL 8 a uno que está en nivel TRL 9?",
+        "input": "",
+        "output": "La diferencia clave es que en el TRL 8 la tecnología ya está completa y ha sido calificada mediante pruebas, demostrando que funciona según el diseño en condiciones operativas reales. Sin embargo, en TRL 9 su efectividad total ha sido demostrada a través de operaciones exitosas sostenidas en el tiempo en condiciones 100% reales. El TRL 9 representa el fin del desarrollo."
+    },
+    {
+        "instruction": "¿Qué significa TRL 9 en términos de madurez tecnológica?",
+        "input": "",
+        "output": "El nivel TRL 9 indica que la nueva tecnología software se encuentra totalmente disponible y se puede utilizar en cualquier entorno real. Este nivel representa el punto final en el desarrollo de la tecnología, donde se ha demostrado su efectividad en entornos reales y está listo para su implementación generalizada."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 6?",
+        "input": "",
+        "output": " El TRL 6 se demuestra mediante pruebas exhaustivas de la tecnología en un entorno de operación real, en condiciones similares a las del mundo real."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 9?",
+        "input": "",
+        "output": " El TRL 9 es la tecnología se encuentra en su forma final y operable en un sin número de condiciones operativas. Se habla de un producto completamente desarrollado y disponible para la sociedad. Entrega de producto o tecnología para producción en serie y comercialización en el mercado."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 9 de TRL?",
+        "input": "",
+        "output": "El TRL 9 representa el sistema completamente probado y certificado en su forma final."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 8?",
+        "input": "",
+        "output": "En el TRL 8 se realizan pruebas en condiciones reales de operación, se obtiene certificación y se realiza la transición a producción."
+    },
+    {
+        "instruction": "¿El TRL 5 significa que la tecnología está lista para uso comercial?",
+        "input": "",
+        "output": "No necesariamente, el TRL 5 solo demuestra que la tecnología funciona en un entorno de laboratorio controlado, aún se necesita mayor calificación para uso comercial."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 3?",
+        "input": "",
+        "output": "Los principales resultados del TRL 3 son la validación de los componentes básicos integrados en un sistema de laboratorio para demostrar que funciona como un todo."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 8?",
+        "input": "",
+        "output": "La finalización del TRL 8 se demuestra cuando el sistema se ajusta perfectamente a las necesidades de su aplicación final y de su entorno de operación, y se certifican mediante pruebas exhaustivas que funciona correctamente en el mundo real."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 5?",
+        "input": "",
+        "output": "En TRL 5 la evaluación se centra en los resultados de las pruebas de laboratorio de los componentes de la tecnología en condiciones controladas y de calificación de los experimentos."
+    },
+    {
+        "instruction": "¿Qué actividades típicas se realizan en el TRL 8?",
+        "input": "",
+        "output": "Actividades claves en TRL 8 son pruebas y demostraciones en condiciones reales del sistema finalizado, estudios analíticos para certificar que el sistema funciona correctamente, documentación exhaustiva para apoyar la certificación, entre otros."
+    },
+    {
+        "instruction": "¿Qué limitaciones tiene el TRL 7?",
+        "input": "",
+        "output": "El TRL 7 tiene algunas limitaciones, como la necesidad de mejoras adicionales para su implementación a gran escala y la necesidad de refinar su desempeño en su aplicación práctica."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 1?",
+        "input": "",
+        "output": "Los principales resultados del TRL 1 son la formulación de la idea tecnológica y su publicación en un informe o artículo."
+    },
+    {
+        "instruction": "¿Cómo demostrar que se alcanzó el nivel 6 de preparación?",
+        "input": "",
+        "output": "Mediante pruebas exhaustivas del prototipo en condiciones próximas al entorno real de operación."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 9?",
+        "input": "",
+        "output": "La finalización del TRL 9 se demuestra cuando el sistema se encuentra en el nivel de operación comercial exitosa y está disponible para su adopción en el mundo real."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 7?",
+        "input": "",
+        "output": "Los principales resultados del TRL 7 son la validación de los componentes y sub-sistemas integrados de la tecnología en un entorno operacional real, lo que permite identificar posibles mejoras y preparar la transición a la producción."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 9?",
+        "input": "",
+        "output": "El TRL 9 se relaciona con la etapa de innovación comercialización y adopción a nivel mundial."
+    },
+    {
+        "instruction": "¿Cómo se refiere comúnmente al TRL 5?",
+        "input": "",
+        "output": "El TRL 5 es la mejora del prototipo inicial hacia un prototipo de mediana fidelidad similar al sistema final (no tiene todas las funcionalidades) para medir el rendimiento general en entornos relevantes simulados, ya no en entorno de laboratorio."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 5?",
+        "input": "",
+        "output": "En el TRL 5 se realizan pruebas del prototipo en un ambiente simulado de operación."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 6?",
+        "input": "",
+        "output": "Los principales resultados del TRL 6 son la validación y demostración de la tecnología en un entorno realista y controlado, así como la identificación y corrección de los posibles problemas restantes."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 8?",
+        "input": "",
+        "output": "El TRL 8 se relaciona con la etapa de innovación."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 4?",
+        "input": "",
+        "output": "En el TRL 4 se realizan pruebas en un entorno controlado de laboratorio o en un sitio designado para validar el prototipo de la tecnología."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 2?",
+        "input": "",
+        "output": "En el TRL 2 se realizan actividades como formulación del concepto tecnológico, identificación de aplicaciones posibles, formulaciones iniciales de conceptos aplicaciones, estudios analíticos y literatura. Estas actividades son fundamentales para establecer la base teórica y analítica del nuevo concepto tecnológico."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 8?",
+        "input": "",
+        "output": "El TRL 8 se demuestra con pruebas de calificación totalmente integradas en un entorno realista, donde los sistemas funcionan correctamente en un ambiente operativo real, como si fueran en el mundo real."
+    },
+    {
+        "instruction": "¿Qué tipo de proyectos se pueden llevar a cabo en el TRL 1?",
+        "input": "",
+        "output": "En el TRL 1 se realizan estudios de formulación analítica y literatura para identificar posibles aplicaciones de la tecnología."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 7?",
+        "input": "",
+        "output": "Los principales resultados del TRL 7 son la finalización del sistema tecnológico y su certificación total."
+    },
+    {
+        "instruction": "¿Cómo demostrar que se alcanzó el nivel 7 de TRL?",
+        "input": "",
+        "output": "Demostrando que el sistema funciona correctamente en condiciones similares al ambiente real y en una scale similar al de su aplicación final."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 8?",
+        "input": "",
+        "output": "En TRL 8 la evaluación se centra en la certificación completa de la tecnología en un entorno realista, como un sistema de operaciones reales, para demostrar su rendimiento operacional."
+    },
+    {
+        "instruction": "¿Qué es el TRL 1?",
+        "input": "",
+        "output": "El TRL 1 corresponde a la investigación básica, en el nivel más inicial de desarrollo tecnológico. Se centra en el descubrimiento y formulación inicial de conceptos y principios."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 2?",
+        "input": "",
+        "output": "Los principales resultados del TRL 2 son la publicación de artículos científicos que describen el concepto tecnológico y la identificación de aplicaciones potenciales."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 8?",
+        "input": "",
+        "output": "En TRL 8 la evaluación se centra en la certificación de la funcionalidad total de la tecnología mediante pruebas y demostraciones en un entorno realista."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 8?",
+        "input": "",
+        "output": "La finalización del TRL 8 se demuestra cuando la tecnología se ha integrado y sido calificada en un sistema operativo completo y en un entorno realista."
+    },
+    {
+        "instruction": "¿Qué limitaciones tiene el TRL 7?",
+        "input": "",
+        "output": "En el TRL 7 se observan limitaciones por ejemplo en el costo de producción, en la capacidad de integración, en la certificación completa de todos los componentes."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 6?",
+        "input": "",
+        "output": "En el TRL 6 se realizan pruebas del sistema en un entorno realista y se obtiene validación total del sistema."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 8?",
+        "input": "",
+        "output": "En el TRL 8 se realizan pruebas en ambientes reales, se obtienen medidas de desempeño y se demuestra la validez total del sistema."
+    },
+    {
+        "instruction": "¿Qué es el TRL 7?",
+        "input": "",
+        "output": "El TRL 7 consiste en que se realiza la prueba del prototipo final en un entorno real de operación, se buscan mejorar las fallas y realizar el prototipo definitivo."
+    },
+    {
+        "instruction": "¿Qué es el TRL 5?",
+        "input": "",
+        "output": "El TRL 5 es la mejora del prototipo inicial hacia un prototipo de mediana fidelidad similar al sistema final (no tiene todas las funcionalidades) para medir el rendimiento general en entornos relevantes simulados, ya no en entorno de laboratorio."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 6?",
+        "input": "",
+        "output": "Los principales resultados de TRL 6 son la validación de los componentes integrados y la demostración de que el sistema funciona como un todo."
+    },
+    {
+        "instruction": "¿Qué es el TRL?",
+        "input": "",
+        "output": "El TRL (Technology Readiness Level) es una metodología que se utiliza para evaluar el estado de madurez de una tecnología, producto o servicio."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 6?",
+        "input": "",
+        "output": "La finalización del TRL 6 se evidencia cuando las pruebas demuestran que el sistema funciona correctamente en su aplicación práctica en el mundo real."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 8?",
+        "input": "",
+        "output": "En el TRL 8 se realizan pruebas del sistema en un entorno realista, se recogen datos de certificación y se obtiene autorización para comercializar el sistema."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 1?",
+        "input": "",
+        "output": "En el TRL 1 la evaluación se centra en determinar si se han formulado conceptos tecnológicos y científicos relevantes para la creación del concepto de la tecnología."
+    },
+    {
+        "instruction": "¿Qué es el TRL 7?",
+        "input": "",
+        "output": "El TRL 7 corresponde a la demostración del sistema tecnológico en un entorno realista, por lo que se ha demostrado la viabilidad de la tecnología en un ambiente real."
+    },
+    {
+        "instruction": "¿Cómo demostrar que se alcanzó el nivel 6 de preparación?",
+        "input": "",
+        "output": "Mediante pruebas exhaustivas y demostraciones del sistema completo en condiciones similares a las reales."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 5?",
+        "input": "",
+        "output": "El TRL 5 se demuestra mediante pruebas en condiciones similares al ambiente real, en un entorno controlado, para validar que la tecnología funciona correctamente y en el contexto esperado."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 8?",
+        "input": "",
+        "output": " El TRL 8 se demuestra mediante pruebas exhaustivas de las unidades de la tecnología en un entorno realista, por lo que todas las unidades de la tecnología funcionan correctamente en condiciones operativas reales."
+    },
+    {
+        "instruction": "¿Qué es el TRL?",
+        "input": "",
+        "output": "El TRL (Technology Readiness Level) es una herramienta de análisis utilizada en la innovación y desarrollo de tecnologías."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 8?",
+        "input": "",
+        "output": "La finalización del TRL 8 se evidencia cuando los sistemas tecnológicos resultantes son totalmente integrados, probados y demostrados en un entorno real."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 5?",
+        "input": "",
+        "output": "En TRL 5 la evaluación se centra en determinar si el prototipo demuestra que la tecnología funciona en condiciones más cercanas a las reales."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 9?",
+        "input": "",
+        "output": "En el TRL 9 se realizan actividades de comercialización, producción y certificación de la tecnología."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 7?",
+        "input": "",
+        "output": " El TRL 7 se demuestra mediante pruebas en condiciones similares a las del entorno real donde el sistema se certifica con éxito."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 8?",
+        "input": "",
+        "output": " El TRL 8 es el Sistema final completo y evaluado a través de pruebas y demostraciones, se han elaborado documentos para la utilización y mantenimiento del producto. Se ha demostrado que la tecnología funciona a nivel comercial a través de una aplicación a gran escala."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 6?",
+        "input": "",
+        "output": " El TRL 6 se demuestra con pruebas del sistema en un ambiente real de operación, donde el sistema funciona correctamente en condiciones operacionales similares a las reales, lo que proporciona una validación a escala real."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 1?",
+        "input": "",
+        "output": "En el TRL 1 se realizan actividades de investigación básica, publicación de artículos científicos y formulación inicial de conceptos."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 7?",
+        "input": "",
+        "output": "En el TRL 7 se realizan pruebas en condiciones reales de operación para demostrar el desempeño de la tecnología."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 8?",
+        "input": "",
+        "output": "La finalización del TRL 8 se demuestra cuando el sistema tecnológico es totalmente integrado y operado en su formato final, con todas las prestaciones y funciones confirmadas a través de pruebas exhaustivas en condiciones reales."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 6?",
+        "input": "",
+        "output": "Los principales resultados del TRL 6 son el prototipo completo, el análisis de performance y la demostración total del sistema."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 5 de TRL?",
+        "input": "",
+        "output": "El TRL 5 representa la prueba del prototipo de sistema en un entorno de simulación."
+    },
+    {
+        "instruction": "¿Qué actividades típicas se realizan en el TRL 8?",
+        "input": "",
+        "output": "En el TRL 8 se realizan pruebas en ambiente real de la tecnología para demostrar su eficacia y validez total."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 7?",
+        "input": "",
+        "output": "El TRL 7 se demuestra a través de pruebas exhaustivas y validaciones de los prototipos en condiciones reales de operación, que aseguren que el sistema funciona correctamente en el mundo real."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 8?",
+        "input": "",
+        "output": "En el TRL 8 se realizan pruebas en condiciones reales de operación del sistema."
+    },
+    {
+        "instruction": "¿Qué es el TRL 8?",
+        "input": "",
+        "output": "El TRL 8 corresponde al sistema tecnológico como un sistema totalmente integrado y calificado que ha sido probado en su forma final en el entorno real del mundo real."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 7?",
+        "input": "",
+        "output": "En el TRL 7 se realizan pruebas de calificación del sistema en condiciones reales de operación."
+    },
+    {
+        "instruction": "¿Cómo demostrar que se alcanzó el nivel 8 de preparación?",
+        "input": "",
+        "output": "Mediante pruebas exhaustivas del prototipo en condiciones muy cercanas a las reales, lo que reflejaría el nivel de madurez alcanzado."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 8?",
+        "input": "",
+        "output": "El TRL 8 se demuestra con pruebas exhaustivas del sistema en un entorno operacional real."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 8?",
+        "input": "",
+        "output": "El TRL 8 se relaciona con la etapa de innovación."
+    },
+    {
+        "instruction": "¿Cómo demostrar que se alcanzó el nivel 6 de TRL?",
+        "input": "",
+        "output": "Mediante pruebas y validaciones en entornos de simulación y en condiciones más cercanas al real."
+    },
+    {
+        "instruction": "¿Qué tipo de resultados se obtienen en el TRL 5?",
+        "input": "",
+        "output": "Los principales resultados en TRL 5 son el desarrollo y validación de prototipos de la tecnología en condiciones operacionales similares a las reales."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 8?",
+        "input": "",
+        "output": " El TRL 8 se demuestra con pruebas exhaustivas de la tecnología en un entorno operativo real, en condiciones que reflejen el ambiente real, por lo que se considera que la tecnología está listada."
+    },
+    {
+        "instruction": "¿Qué tipo de actividades se realizan en el TRL 1?",
+        "input": "",
+        "output": "En el TRL 1 se realizan actividades como la formulación del concepto tecnológico, la identificación de aplicaciones potenciales y la publicación de artículos que lo mencionan."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 1?",
+        "input": "",
+        "output": "En el TRL 1 la evaluación se centra en la publicación de artículos científicos que describen la observación o identificación de los principios básicos que se esperan que formen el nuevo dispositivo o proceso."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 1?",
+        "input": "",
+        "output": "La finalización del TRL 1 se evidencia cuando se publica un artículo científico que describe la observación inicial de los principios básicos de la tecnología. Se considera que el TRL 1 está completo cuando se ha publicado un documento que describe los principios básicos de la tecnología y sus aplicaciones."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 5?",
+        "input": "",
+        "output": "El TRL 5 se demuestra mediante pruebas exhaustivas de prototipos de baja fidelidad en entornos controlados que validan las funciones clave de la tecnología."
+    },
+    {
+        "instruction": "¿Cómo se refiere comúnmente al TRL 2?",
+        "input": "",
+        "output": "El TRL 2 se refiere a la formación de conceptos tecnológicos y principios básicos. Se relaciona con la literatura y publicaciones científicas."
+    },
+    {
+        "instruction": "¿Qué resultados se obtienen en el TRL 2?",
+        "input": "",
+        "output": "Los resultados del TRL 2 se centran en la formulación de la idea básica, la identificación de aplicaciones potenciales y la publicación de un artículo en una revista científica."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 9 de TRL?",
+        "input": "",
+        "output": "El TRL 9 representa la implementación y uso generalizado del tecnología en su forma final."
+    },
+    {
+        "instruction": "¿Qué representa el nivel 6 de TRL?",
+        "input": "",
+        "output": "El TRL 6 representa la validación de un prototipo en un entorno realista de operación."
+    },
+    {
+        "instruction": "¿Con qué etapa de I+D+i se relaciona el TRL 6?",
+        "input": "",
+        "output": "El TRL 6 está relacionado con la transición a la investigación aplicada."
+    },
+    {
+        "instruction": "¿Cómo se demuestra el TRL 8?",
+        "input": "",
+        "output": "El TRL 8 se demuestra con pruebas integrales del sistema en su entorno operativo real."
+    },
+    {
+        "instruction": "¿Cómo se evidencia la finalización del TRL 8?",
+        "input": "",
+        "output": "La finalización del TRL 8 se demuestra cuando el sistema se ajusta y funciona correctamente en su aplicación final, en un entorno real."
+    },
+    {
+        "instruction": "¿Cómo se evalúa una tecnología en TRL 8?",
+        "input": "",
+        "output": "En TRL 8 la evaluación se centra en la certificación de que la tecnología funciona correctamente en su aplicación final y en el mundo real, y en la documentación de los resultados de la evaluación."
+    },
+    {
+        "instruction": "¿Qué actividades se realizan en el TRL 5?",
+        "input": "",
+        "output": "En el TRL 5 se realizan pruebas en condiciones de laboratorio y simulación de operación en el mundo real."
+    }
+]
