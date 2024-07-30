@@ -2,10 +2,11 @@ import json
 import os
 from collections import defaultdict
 
+import pandas as pd
 import numpy as np
 import tiktoken
 
-with open("amadeus_TRL_CONCEPTUAL_DATASET_V1.jsonl") as f:
+with open("amadeus_TRL_EVALUATIONS_DATASET_V1.jsonl") as f:
     dataset = [json.loads(line) for line in f]
     
 #---------------------------------- CHECKEO DE ERRORES EN EL FORMATO DEL DATASET--------------------------------------------
@@ -55,11 +56,13 @@ encoding = tiktoken.get_encoding("cl100k_base")
 def num_tokens_from_messages(messages, tokens_per_message=3, tokens_per_name=1):
     num_tokens = 0
     for message in messages:
-        num_tokens += tokens_per_message
+        num_tokens += tokens_per_message   
         for key, value in message.items():
             num_tokens += len(encoding.encode(value))
             if key == "name":
-                num_tokens += tokens_per_name
+                num_tokens += tokens_per_name   
+        
+        
     num_tokens += 3
     return num_tokens
 
@@ -126,8 +129,18 @@ print(f"By default, you'll train for {n_epochs} epochs on this dataset")
 print(f"By default, you'll be charged for ~{n_epochs * n_billing_tokens_in_dataset} tokens")
 print("See pricing page to estimate total costs")
     
-    
-    
-    
-    
+print(n_messages)    
+
+data=[]
+contador=0   
+for item in n_messages:
+   diccionario_actual= {"ID":contador, "num_mensajes":item}
+   data.append(diccionario_actual) 
+            
+# Convertir la lista de diccionarios en un DataFrame de pandas
+df = pd.DataFrame(data)
+
+# Guardar el DataFrame en un archivo CSV
+file_path = 'num_mensajes_EVALUATIONS.csv'  # Cambia esto a la ruta donde quieras guardar el archivo CSV
+df.to_csv(file_path, index=False)    
     
