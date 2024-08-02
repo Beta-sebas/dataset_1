@@ -1,0 +1,234 @@
+[
+    {
+        "prompt": "¿Qué tipo de actividades se realizan en el TRL 1?",
+        "referencia": "En el TRL 1 se realizan actividades de investigación básica, publicación de artículos científicos y formulación inicial de conceptos.",
+        "generado_llama_2": " En el TRL 1 se realizan actividades de investigación básica para identificar los conceptos tecnológicos y analizar su viabilidad. No se realizan pruebas o demostraciones.",
+        "tiempo_ejecucion_llama_2": 38.97818207740784,
+        "generado_gpt": "En el TRL 1 se realizan actividades de investigación básica, publicación de artículos científicos, formulación de conceptos y posibles aplicaciones. No se realizan pruebas experimentales.",
+        "tiempo_ejecucion_gpt": 1.1635589599609375
+    },
+    {
+        "prompt": "¿Qué actividades se realizan en el TRL 7?",
+        "referencia": "En el TRL 7 se realizan pruebas en condiciones reales de operación para demostrar el desempeño de la tecnología.",
+        "generado_llama_2": " En el TRL 7 se realizan pruebas en condiciones reales del sistema completo. Se valúan los resultados y se identifica el rendimiento final. Se analiza el sistema para su certificación y comercialización.",
+        "tiempo_ejecucion_llama_2": 38.23122048377991,
+        "generado_gpt": "En el TRL 7 se realizan pruebas en condiciones reales de operación para demostrar la efectividad de la tecnología.",
+        "tiempo_ejecucion_gpt": 0.46991705894470215
+    },
+    {
+        "prompt": "¿Cómo se evidencia la finalización del TRL 8?",
+        "referencia": "La finalización del TRL 8 se demuestra cuando el sistema tecnológico es totalmente integrado y operado en su formato final, con todas las prestaciones y funciones confirmadas a través de pruebas exhaustivas en condiciones reales.",
+        "generado_llama_2": " La finalización del TRL 8 se demuestra cuando el sistema tecnológico se ha integrado en un sistema operativo y se ha demostrado su capacidad para operar en condiciones reales. Esto se prueba en un entorno realista y se obtiene una certificación de calidad.",
+        "tiempo_ejecucion_llama_2": 38.0290961265564,
+        "generado_gpt": "La finalización del TRL 8 se demuestra cuando el sistema se ha probado y validado completamente en su forma final y en un entorno operacional real.",
+        "tiempo_ejecucion_gpt": 3.9707674980163574
+    },
+    {
+        "prompt": "¿Qué tipo de resultados se obtienen en el TRL 6?",
+        "referencia": "Los principales resultados del TRL 6 son el prototipo completo, el análisis de performance y la demostración total del sistema.",
+        "generado_llama_2": " Los principales resultados del TRL 6 son la demostración de la tecnología en un entorno realista y la validación de su funcionamiento en condiciones operativas. Se obtienen resultados de la formación de un prototipo funcional y de la validación de su capacidad para realizar las operaciones requeridas. Se obtiene una comprensión de los resultados de la tecnología en un entorno realista.",
+        "tiempo_ejecucion_llama_2": 38.647722482681274,
+        "generado_gpt": "Los principales resultados del TRL 6 son la validación de un prototipo en un entorno realista y la demostración de que la tecnología funciona correctamente en condiciones similares a las reales.",
+        "tiempo_ejecucion_gpt": 1.2121331691741943
+    },
+    {
+        "prompt": "¿Qué representa el nivel 5 de TRL?",
+        "referencia": "El TRL 5 representa la prueba del prototipo de sistema en un entorno de simulación.",
+        "generado_llama_2": " El TRL 5 representa la validación de los componentes y subsystemes en condiciones de laboratorio o simulación. Se demuestra que el sistema funciona en condiciones controladas. Se obtiene una comprensión de los componentes y subsystemes en condiciones de operación. Se identifica el rendimiento del sistema en condiciones de operación. Se analiza el sistema en condiciones de operación. Se identifica el rendimiento del",
+        "tiempo_ejecucion_llama_2": 38.05763339996338,
+        "generado_gpt": "El TRL 5 representa la validación de los componentes tecnológicos en un entorno relevante para demostrar su funcionamiento.",
+        "tiempo_ejecucion_gpt": 1.6097524166107178
+    },
+    {
+        "prompt": "¿Qué actividades típicas se realizan en el TRL 8?",
+        "referencia": "En el TRL 8 se realizan pruebas en ambiente real de la tecnología para demostrar su eficacia y validez total.",
+        "generado_llama_2": " En el TRL 8 se realizan pruebas y validaciones en entornos operativos reales para demostrar la calidad y rendimiento del sistema. Se pueden realizar pruebas de integración con otros sistemas y componentes, así como pruebas de resiliencia y seguridad. También se pueden realizar pruebas de certificación y homologación para demostrar que el sistema cumple con los estándares de seguridad y calidad.",
+        "tiempo_ejecucion_llama_2": 38.37786555290222,
+        "generado_gpt": "Actividades clave en TRL 8 son pruebas y calibración del sistema completo en condiciones reales, demostración de su funcionamiento en un entorno operativo real, y obtención de certificaciones necesarias para su implementación a escala real.",
+        "tiempo_ejecucion_gpt": 2.6652297973632812
+    },
+    {
+        "prompt": "¿Cómo se demuestra el TRL 7?",
+        "referencia": "El TRL 7 se demuestra a través de pruebas exhaustivas y validaciones de los prototipos en condiciones reales de operación, que aseguren que el sistema funciona correctamente en el mundo real.",
+        "generado_llama_2": " El TRL 7 se demuestra mediante pruebas reales en condiciones operacionales del sistema tecnológico. Esto implica probar el sistema en su entorno real, con los mismos parámetros y condiciones que en el entorno real. Estas pruebas demuestran que el sistema funciona correctamente en su entorno real y que se puede operar de forma segura y eficiente.",
+        "tiempo_ejecucion_llama_2": 38.221203327178955,
+        "generado_gpt": "El TRL 7 se demuestra con pruebas exhaustivas de prototipos en condiciones operativas reales que validan el desempeño de la tecnología.",
+        "tiempo_ejecucion_gpt": 0.719327449798584
+    },
+    {
+        "prompt": "¿Qué tipo de actividades se realizan en el TRL 8?",
+        "referencia": "En el TRL 8 se realizan pruebas en condiciones reales de operación del sistema.",
+        "generado_llama_2": " En el TRL 8 se realizan pruebas y validaciones en entornos operativos reales para demostrar la calidad y rendimiento del sistema. Se pueden realizar pruebas de calificación en entornos operativos reales para demostrar la capacidad del sistema para operar en condiciones reales. Se pueden realizar pruebas de certificación para demostrar que el sistema cumple con los estándares de certificación. Se pueden realizar",
+        "tiempo_ejecucion_llama_2": 38.26727104187012,
+        "generado_gpt": "En el TRL 8 se realizan pruebas en condiciones reales de operación para demostrar la efectividad total del sistema.",
+        "tiempo_ejecucion_gpt": 0.5804188251495361
+    },
+    {
+        "prompt": "¿Qué es el TRL 8?",
+        "referencia": "El TRL 8 corresponde al sistema tecnológico como un sistema totalmente integrado y calificado que ha sido probado en su forma final en el entorno real del mundo real.",
+        "generado_llama_2": " El TRL 8 corresponde a la comercialización del sistema tecnológico. El sistema se ha demostrado en condiciones reales y se ha certificado su funcionamiento. Se ha producido una versión final del sistema que se comercializa y se ofrece a los clientes. El TRL 8 representa la madurez tecnológica más alta, ya que el sistema se ha demostrado en condiciones reales y se ha certificado su funcionamiento",
+        "tiempo_ejecucion_llama_2": 37.46766400337219,
+        "generado_gpt": "El TRL 8 corresponde a la certificación total del sistema, es decir, a la validación completa del sistema en su forma final y en un entorno operacional real.",
+        "tiempo_ejecucion_gpt": 0.7529799938201904
+    },
+    {
+        "prompt": "¿Qué actividades se realizan en el TRL 7?",
+        "referencia": "En el TRL 7 se realizan pruebas de calificación del sistema en condiciones reales de operación.",
+        "generado_llama_2": " En el TRL 7 se realizan pruebas en condiciones reales del sistema completo. Se valúan los resultados y se identifica el rendimiento final. Se analiza el sistema para su certificación y comercialización.",
+        "tiempo_ejecucion_llama_2": 38.12952399253845,
+        "generado_gpt": "En el TRL 7 se realizan pruebas en un entorno realista de operación.",
+        "tiempo_ejecucion_gpt": 0.5440976619720459
+    },
+    {
+        "prompt": "¿Cómo demostrar que se alcanzó el nivel 8 de preparación?",
+        "referencia": "Mediante pruebas exhaustivas del prototipo en condiciones muy cercanas a las reales, lo que reflejaría el nivel de madurez alcanzado.",
+        "generado_llama_2": " Mediante pruebas reales en condiciones operacionales del sistema, demostrando su capacidad para operar en el entorno real.",
+        "tiempo_ejecucion_llama_2": 38.70345067977905,
+        "generado_gpt": "Mediante pruebas exhaustivas del prototipo en un entorno realista, que demuestren su funcionamiento a nivel operativo y su integración con otros sistemas.",
+        "tiempo_ejecucion_gpt": 0.7403481006622314
+    },
+    {
+        "prompt": "¿Cómo se demuestra el TRL 8?",
+        "referencia": "El TRL 8 se demuestra con pruebas exhaustivas del sistema en un entorno operacional real.",
+        "generado_llama_2": " El TRL 8 se demuestra mediante pruebas reales en condiciones operacionales reales. Esto implica la validación de la tecnología en un entorno realista y completo. Las pruebas deben demostrar que la tecnología funciona correctamente en condiciones operacionales reales y que se puede aplicar en un entorno real.",
+        "tiempo_ejecucion_llama_2": 38.030336141586304,
+        "generado_gpt": "El TRL 8 se demuestra con pruebas exhaustivas del sistema en su configuración final, en un entorno realista y con usuarios finales.",
+        "tiempo_ejecucion_gpt": 0.6358094215393066
+    },
+    {
+        "prompt": "¿Con qué etapa de I+D+i se relaciona el TRL 8?",
+        "referencia": "El TRL 8 se relaciona con la etapa de innovación.",
+        "generado_llama_2": " El TRL 8 se relaciona con la etapa de investigación aplicada y desarrollo tecnológico. En esta etapa se aplican los resultados de la investigación a la creación de productos y servicios.",
+        "tiempo_ejecucion_llama_2": 38.58393669128418,
+        "generado_gpt": "El TRL 8 se relaciona con la etapa de innovación.",
+        "tiempo_ejecucion_gpt": 0.5223801136016846
+    },
+    {
+        "prompt": "¿Cómo demostrar que se alcanzó el nivel 6 de TRL?",
+        "referencia": "Mediante pruebas y validaciones en entornos de simulación y en condiciones más cercanas al real.",
+        "generado_llama_2": " Mediante pruebas en condiciones reales de operación del sistema tecnológico, demostrando su capacidad para operar en el entorno real.",
+        "tiempo_ejecucion_llama_2": 38.57116985321045,
+        "generado_gpt": "Mediante pruebas exhaustivas del prototipo en un entorno realista que simule condiciones operativas reales.",
+        "tiempo_ejecucion_gpt": 0.612762451171875
+    },
+    {
+        "prompt": "¿Qué tipo de resultados se obtienen en el TRL 5?",
+        "referencia": "Los principales resultados en TRL 5 son el desarrollo y validación de prototipos de la tecnología en condiciones operacionales similares a las reales.",
+        "generado_llama_2": " Los principales resultados del TRL 5 son la demostración de la funcionalidad del sistema en condiciones reales y la validación de los resultados en un entorno operativo. Se obtienen resultados de la validación de la funcionalidad del sistema en condiciones operativas. Se obtiene una comprensión de los resultados de la validación. Se obtiene una comprensión de los resultados de la validación. Se",
+        "tiempo_ejecucion_llama_2": 38.454402446746826,
+        "generado_gpt": "Los principales resultados del TRL 5 son la validación del sistema en un entorno relevante y la identificación y reducción de riesgos.",
+        "tiempo_ejecucion_gpt": 2.339463472366333
+    },
+    {
+        "prompt": "¿Cómo se demuestra el TRL 8?",
+        "referencia": " El TRL 8 se demuestra con pruebas exhaustivas de la tecnología en un entorno operativo real, en condiciones que reflejen el ambiente real, por lo que se considera que la tecnología está listada.",
+        "generado_llama_2": " El TRL 8 se demuestra mediante pruebas reales en condiciones operacionales reales. Esto implica la validación de la tecnología en un entorno realista y completo. Las pruebas deben demostrar que la tecnología funciona correctamente en condiciones operacionales reales y que se puede aplicar en un entorno real.",
+        "tiempo_ejecucion_llama_2": 38.181618213653564,
+        "generado_gpt": "El TRL 8 se demuestra con pruebas exhaustivas de la tecnología en un entorno realista y relevante.",
+        "tiempo_ejecucion_gpt": 0.6893701553344727
+    },
+    {
+        "prompt": "¿Qué tipo de actividades se realizan en el TRL 1?",
+        "referencia": "En el TRL 1 se realizan actividades como la formulación del concepto tecnológico, la identificación de aplicaciones potenciales y la publicación de artículos que lo mencionan.",
+        "generado_llama_2": " En el TRL 1 se realizan actividades de investigación básica para identificar los conceptos tecnológicos y analizar su viabilidad. No se realizan pruebas o demostraciones.",
+        "tiempo_ejecucion_llama_2": 38.33761811256409,
+        "generado_gpt": "En el TRL 1 se realizan actividades de investigación básica, publicación de artículos científicos y formulación de conceptos tecnológicos. No se realizan pruebas experimentales.",
+        "tiempo_ejecucion_gpt": 1.4466173648834229
+    },
+    {
+        "prompt": "¿Cómo se evalúa una tecnología en TRL 1?",
+        "referencia": "En el TRL 1 la evaluación se centra en la publicación de artículos científicos que describen la observación o identificación de los principios básicos que se esperan que formen el nuevo dispositivo o proceso.",
+        "generado_llama_2": " En TRL 1 se evalúa la concepción de la tecnología. Se analizan los conceptos básicos y se determinan los requisitos básicos para el desarrollo. No se realizan pruebas o demostraciones.",
+        "tiempo_ejecucion_llama_2": 38.27670645713806,
+        "generado_gpt": "En el TRL 1 la evaluación se centra en determinar si se han observado los principios científicos básicos y si se han identificado las aplicaciones potenciales de la tecnología. No se requiere una evaluación detallada en este nivel.",
+        "tiempo_ejecucion_gpt": 2.7708580493927
+    },
+    {
+        "prompt": "¿Cómo se evidencia la finalización del TRL 1?",
+        "referencia": "La finalización del TRL 1 se evidencia cuando se publica un artículo científico que describe la observación inicial de los principios básicos de la tecnología. Se considera que el TRL 1 está completo cuando se ha publicado un documento que describe los principios básicos de la tecnología y sus aplicaciones.",
+        "generado_llama_2": " La finalización del TRL 1 se demuestra cuando se ha identificado el concepto básico de la tecnología y se ha demostrado que funciona en un entorno laboratorio controlado. No hay evidencia de que el sistema funcione en un entorno real.",
+        "tiempo_ejecucion_llama_2": 38.53325080871582,
+        "generado_gpt": "La finalización del TRL 1 se demuestra cuando se publica un artículo científico que describe la observación de los principios básicos de la tecnología.",
+        "tiempo_ejecucion_gpt": 0.7325942516326904
+    },
+    {
+        "prompt": "¿Cómo se demuestra el TRL 5?",
+        "referencia": "El TRL 5 se demuestra mediante pruebas exhaustivas de prototipos de baja fidelidad en entornos controlados que validan las funciones clave de la tecnología.",
+        "generado_llama_2": " El TRL 5 se demuestra mediante pruebas en condiciones reales de operación, en un entorno similar al del sistema final. Esto permite validar el sistema en su forma final y demostrar su capacidad para operar en condiciones reales.",
+        "tiempo_ejecucion_llama_2": 37.96720099449158,
+        "generado_gpt": "El TRL 5 se demuestra con pruebas exhaustivas del prototipo en un entorno simulado que refleje las condiciones reales de operación.",
+        "tiempo_ejecucion_gpt": 0.6341958045959473
+    },
+    {
+        "prompt": "¿Cómo se refiere comúnmente al TRL 2?",
+        "referencia": "El TRL 2 se refiere a la formación de conceptos tecnológicos y principios básicos. Se relaciona con la literatura y publicaciones científicas.",
+        "generado_llama_2": " El TRL 2 se refiere a la formación de la idea tecnológica. Se analiza si el concepto tecnológico es viable y si se pueden identificar los componentes básicos. Se analiza si el concepto tecnológico tiene un impacto en el mundo real. Se analiza si el concepto tecnológico tiene un impacto en el mundo real.",
+        "tiempo_ejecucion_llama_2": 38.170987367630005,
+        "generado_gpt": "El nivel 2 se conoce como formulación de conceptos. Se inicia la investigación para desarrollar la tecnología.",
+        "tiempo_ejecucion_gpt": 0.6157937049865723
+    },
+    {
+        "prompt": "¿Qué resultados se obtienen en el TRL 2?",
+        "referencia": "Los resultados del TRL 2 se centran en la formulación de la idea básica, la identificación de aplicaciones potenciales y la publicación de un artículo en una revista científica.",
+        "generado_llama_2": " Los resultados del TRL 2 son la identificación de los conceptos básicos y la formación de un equipo de investigación. No se obtiene un prototipo.",
+        "tiempo_ejecucion_llama_2": 38.21348476409912,
+        "generado_gpt": "Los principales resultados del TRL 2 son la formulación de la idea tecnológica y su posible aplicación, así como la identificación de los conceptos y principios básicos que la sustentan. No se obtienen resultados experimentales o datos que demuestren la viabilidad.",
+        "tiempo_ejecucion_gpt": 0.8260958194732666
+    },
+    {
+        "prompt": "¿Qué representa el nivel 9 de TRL?",
+        "referencia": "El TRL 9 representa la implementación y uso generalizado del tecnología en su forma final.",
+        "generado_llama_2": " El nivel 9 representa la comercialización del sistema tecnológico. El sistema se ha demostrado en condiciones reales y se ha certificado su funcionamiento. Se ha producido una transición a la producción en masa y se ha alcanzado la certificación de calidad. El sistema se encuentra en su forma final y se ha demostrado su capacidad para operar en condiciones reales.",
+        "tiempo_ejecucion_llama_2": 38.11575675010681,
+        "generado_gpt": "El TRL 9 representa el sistema completamente probado y certificado en su forma final.",
+        "tiempo_ejecucion_gpt": 0.47371840476989746
+    },
+    {
+        "prompt": "¿Qué representa el nivel 6 de TRL?",
+        "referencia": "El TRL 6 representa la validación de un prototipo en un entorno realista de operación.",
+        "generado_llama_2": " El TRL 6 representa la validación de los componentes y subsystemes en condiciones reales de operación. Se demuestra que el sistema funciona en un entorno realista. Se obtiene una certificación de que el sistema cumple con los requisitos de rendimiento y funcionalidad. Se demuestra que el sistema es capaz de operar en condiciones reales.",
+        "tiempo_ejecucion_llama_2": 38.018232345581055,
+        "generado_gpt": "El TRL 6 representa la validación de un prototipo en un entorno realista de operación.",
+        "tiempo_ejecucion_gpt": 0.7066628932952881
+    },
+    {
+        "prompt": "¿Con qué etapa de I+D+i se relaciona el TRL 6?",
+        "referencia": "El TRL 6 está relacionado con la transición a la investigación aplicada.",
+        "generado_llama_2": " El TRL 6 se relaciona con la etapa de investigación aplicada. En esta etapa se aplican los resultados de la investigación a un sistema o tecnología específico para demostrar su viabilidad.",
+        "tiempo_ejecucion_llama_2": 38.68185472488403,
+        "generado_gpt": "El TRL 6 se relaciona con la etapa de innovación.",
+        "tiempo_ejecucion_gpt": 1.6857500076293945
+    },
+    {
+        "prompt": "¿Cómo se demuestra el TRL 8?",
+        "referencia": "El TRL 8 se demuestra con pruebas integrales del sistema en su entorno operativo real.",
+        "generado_llama_2": " El TRL 8 se demuestra mediante pruebas reales en condiciones operacionales reales. Esto implica la validación de la tecnología en un entorno realista y completo. Las pruebas deben demostrar que la tecnología funciona correctamente en condiciones operacionales reales y que se puede aplicar en un entorno real.",
+        "tiempo_ejecucion_llama_2": 38.044989824295044,
+        "generado_gpt": "El TRL 8 se demuestra con pruebas exhaustivas del sistema en su entorno operativo real, donde se comprueba su total funcionalidad y desempeño.",
+        "tiempo_ejecucion_gpt": 1.8275420665740967
+    },
+    {
+        "prompt": "¿Cómo se evidencia la finalización del TRL 8?",
+        "referencia": "La finalización del TRL 8 se demuestra cuando el sistema se ajusta y funciona correctamente en su aplicación final, en un entorno real.",
+        "generado_llama_2": " La finalización del TRL 8 se demuestra cuando el sistema tecnológico se ha integrado en un sistema operativo y se ha demostrado su capacidad para operar en condiciones reales. Esto se prueba en un entorno realista y se obtiene una certificación de calidad.",
+        "tiempo_ejecucion_llama_2": 38.45237064361572,
+        "generado_gpt": "La finalización del TRL 8 se demuestra cuando el sistema tecnológico ha sido completamente probado y validado en su forma final en un entorno operativo real.",
+        "tiempo_ejecucion_gpt": 0.6499221324920654
+    },
+    {
+        "prompt": "¿Cómo se evalúa una tecnología en TRL 8?",
+        "referencia": "En TRL 8 la evaluación se centra en la certificación de que la tecnología funciona correctamente en su aplicación final y en el mundo real, y en la documentación de los resultados de la evaluación.",
+        "generado_llama_2": " En TRL 8 se evalúa la tecnología en un entorno realista y completo, con un sistema integrado y operativo en condiciones reales. Se analizan los resultados de la prueba para certificar que la tecnología funciona correctamente en el entorno real.",
+        "tiempo_ejecucion_llama_2": 38.51670217514038,
+        "generado_gpt": "En el TRL 8 la evaluación se centra en demostrar que el sistema funciona correctamente en su aplicación final y en su entorno operativo real.",
+        "tiempo_ejecucion_gpt": 0.6996455192565918
+    },
+    {
+        "prompt": "¿Qué actividades se realizan en el TRL 5?",
+        "referencia": "En el TRL 5 se realizan pruebas en condiciones de laboratorio y simulación de operación en el mundo real.",
+        "generado_llama_2": " En el TRL 5 se realizan pruebas de laboratorio y demostraciones en condiciones controladas para validar el funcionamiento del sistema. Se analizan resultados y se identifica el rendimiento final. Se prepara el sistema para la validación en condiciones operativas.",
+        "tiempo_ejecucion_llama_2": 38.27095174789429,
+        "generado_gpt": "En el TRL 5 se realizan pruebas del prototipo en un entorno simulado de operación, se identifican y resuelven problemas de integración, se refinan los modelos de simulación y se evalúa la operación del prototipo en condiciones similares a las reales.",
+        "tiempo_ejecucion_gpt": 1.0356547832489014
+    }
+]
